@@ -19,7 +19,29 @@
         var map = L.map('map', {attributionControl: false}).setView([41.7944, -87.5979], 14);
         L.control.attribution({prefix: false}).addTo(map);
         var tilesource_layer = L.tileLayer('https://claireknox.github.io/Lab3/{z}/{x}/{y}.png', {minZoom: 13, maxZoom: 15, tms: false, attribution: 'Created by QGIS'}).addTo(map);
-        var bus = new L.geoJson(bus).addTo(map);
-        </script>
+        
+        var onEachFeature = function(feature, layer) {
+            if (feature.properties) {
+                var prop = feature.properties;
+                    
+                var popup = '<h4>'+prop['Name'];
+                    feature.layer = layer;
+                    layer.bindPopup(popup, {maxWidth: "auto"});
+                }
+            };
+        
+        var bus = new L.geoJson(bus, {
+            onEachFeature: onEachFeature,
+            pointToLayer: function(feature, ll){
+                return L.circleMarker(ll, {
+                        color: '#000000',
+                        opacity: 1,
+                        weight: 2,
+                        fillColor: '#d12308',
+                        fillOpacity: .5,
+                        radius: 5
+                    }); 
+                }
+        }).addTo(map);        </script>
     </body> 
 </html>
