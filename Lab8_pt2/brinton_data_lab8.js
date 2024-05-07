@@ -1,7 +1,5 @@
 var brintonJson =
-[{
-   "type": "FeatureCollection",
-   "features": [
+[
   {
     "type": "Feature",
     "geometry": {
@@ -14126,5 +14124,4 @@ var brintonJson =
     "time":"12/18/1908"
     }
   }
-]
-}]
+];
