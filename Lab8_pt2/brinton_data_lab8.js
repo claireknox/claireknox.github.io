@@ -1,5 +1,4 @@
-var brintonJson =
-[
+var brintonJson = [
   {
     "type": "Feature",
     "geometry": {
