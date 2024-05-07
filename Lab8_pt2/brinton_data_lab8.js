@@ -9,7 +9,7 @@ var brintonJson =
        "coordinates":  [ -92.354629,41.401397 ]
     },
     "properties": {
-    "name":"Masonic Opera House: What Cheer, IA",
+    "NAME":"Masonic Opera House: What Cheer, IA",
     "time":"1/1/1904"
     }
   },
@@ -20,7 +20,7 @@ var brintonJson =
        "coordinates":  [ -92.354629,41.401397 ]
     },
     "properties": {
-    "name":"Masonic Opera House: What Cheer, IA",
+    "NAME":"Masonic Opera House: What Cheer, IA",
     "time":"1/2/1904"
     }
   },
@@ -31,7 +31,7 @@ var brintonJson =
        "coordinates":  [ -92.527431,41.584878 ]
     },
     "properties": {
-    "name":"Montezuma Opera House: Montezuma, IA",
+    "NAME":"Montezuma Opera House: Montezuma, IA",
     "time":"1/4/1904"
     }
   },
@@ -42,7 +42,7 @@ var brintonJson =
        "coordinates":  [ -92.527431,41.584878 ]
     },
     "properties": {
-    "name":"Montezuma Opera House: Montezuma, IA",
+    "NAME":"Montezuma Opera House: Montezuma, IA",
     "time":"1/5/1904"
     }
   },
@@ -53,7 +53,7 @@ var brintonJson =
        "coordinates":  [ -92.527431,41.584878 ]
     },
     "properties": {
-    "name":"Montezuma Opera House: Montezuma, IA",
+    "NAME":"Montezuma Opera House: Montezuma, IA",
     "time":"1/6/1904"
     }
   },
@@ -64,7 +64,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"North English, IA",
+    "NAME":"North English, IA",
     "time":"1/7/1904"
     }
   },
@@ -75,7 +75,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Trojan Opera House: Williamsburg, IA",
+    "NAME":"Trojan Opera House: Williamsburg, IA",
     "time":"1/8/1904"
     }
   },
@@ -86,7 +86,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Trojan Opera House: Williamsburg, IA",
+    "NAME":"Trojan Opera House: Williamsburg, IA",
     "time":"1/9/1904"
     }
   },
@@ -97,7 +97,7 @@ var brintonJson =
        "coordinates":  [ -91.892778,42.470465 ]
     },
     "properties": {
-    "name":"The Gedney: Independence, IA",
+    "NAME":"The Gedney: Independence, IA",
     "time":"1/11/1904"
     }
   },
@@ -108,7 +108,7 @@ var brintonJson =
        "coordinates":  [ -91.892778,42.470465 ]
     },
     "properties": {
-    "name":"The Gedney: Independence, IA",
+    "NAME":"The Gedney: Independence, IA",
     "time":"1/12/1904"
     }
   },
@@ -119,7 +119,7 @@ var brintonJson =
        "coordinates":  [ -91.892778,42.470465 ]
     },
     "properties": {
-    "name":"The Gedney: Independence, IA",
+    "NAME":"The Gedney: Independence, IA",
     "time":"1/13/1904"
     }
   },
@@ -130,7 +130,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Monticello Opera House: Monticello, IA",
+    "NAME":"Monticello Opera House: Monticello, IA",
     "time":"1/13/1904"
     }
   },
@@ -141,7 +141,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Monticello Opera House: Monticello, IA",
+    "NAME":"Monticello Opera House: Monticello, IA",
     "time":"1/14/1904"
     }
   },
@@ -152,7 +152,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Monticello Opera House: Monticello, IA",
+    "NAME":"Monticello Opera House: Monticello, IA",
     "time":"1/15/1904"
     }
   },
@@ -163,7 +163,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Cascade Opera House: Cascade, IA",
+    "NAME":"Cascade Opera House: Cascade, IA",
     "time":"1/18/1904"
     }
   },
@@ -174,7 +174,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Cascade Opera House: Cascade, IA",
+    "NAME":"Cascade Opera House: Cascade, IA",
     "time":"1/19/1904"
     }
   },
@@ -185,7 +185,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Cascade Opera House: Cascade, IA",
+    "NAME":"Cascade Opera House: Cascade, IA",
     "time":"1/20/1904"
     }
   },
@@ -196,7 +196,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Mount Pleasant, IA",
+    "NAME":"Mount Pleasant, IA",
     "time":"1/20/1904"
     }
   },
@@ -207,7 +207,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"1/21/1904"
     }
   },
@@ -218,7 +218,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"1/22/1904"
     }
   },
@@ -229,7 +229,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"1/23/1904"
     }
   },
@@ -240,7 +240,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"1/23/1904"
     }
   },
@@ -251,7 +251,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre: Marshalltown, IA",
+    "NAME":"Odeon Theatre: Marshalltown, IA",
     "time":"1/25/1904"
     }
   },
@@ -262,7 +262,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre: Marshalltown, IA",
+    "NAME":"Odeon Theatre: Marshalltown, IA",
     "time":"1/26/1904"
     }
   },
@@ -273,7 +273,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre: Marshalltown, IA",
+    "NAME":"Odeon Theatre: Marshalltown, IA",
     "time":"1/27/1904"
     }
   },
@@ -284,7 +284,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Coldren Opera House: Iowa City, IA",
+    "NAME":"Coldren Opera House: Iowa City, IA",
     "time":"1/28/1904"
     }
   },
@@ -295,7 +295,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Coldren Opera House: Iowa City, IA",
+    "NAME":"Coldren Opera House: Iowa City, IA",
     "time":"1/29/1904"
     }
   },
@@ -306,7 +306,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Coldren Opera House: Iowa City, IA",
+    "NAME":"Coldren Opera House: Iowa City, IA",
     "time":"1/30/1904"
     }
   },
@@ -317,7 +317,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Coldren Opera House: Iowa City, IA",
+    "NAME":"Coldren Opera House: Iowa City, IA",
     "time":"1/31/1904"
     }
   },
@@ -328,7 +328,7 @@ var brintonJson =
        "coordinates":  [ -91.345973,41.672074 ]
     },
     "properties": {
-    "name":"Macomber Opera House: West Branch, IA",
+    "NAME":"Macomber Opera House: West Branch, IA",
     "time":"2/2/1904"
     }
   },
@@ -339,7 +339,7 @@ var brintonJson =
        "coordinates":  [ -91.345973,41.672074 ]
     },
     "properties": {
-    "name":"Macomber Opera House: West Branch, IA",
+    "NAME":"Macomber Opera House: West Branch, IA",
     "time":"2/3/1904"
     }
   },
@@ -350,7 +350,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Tipton Opera House: Tipton, IA",
+    "NAME":"Tipton Opera House: Tipton, IA",
     "time":"2/4/1904"
     }
   },
@@ -361,7 +361,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Tipton Opera House: Tipton, IA",
+    "NAME":"Tipton Opera House: Tipton, IA",
     "time":"2/5/1904"
     }
   },
@@ -372,7 +372,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Tipton Opera House: Tipton, IA",
+    "NAME":"Tipton Opera House: Tipton, IA",
     "time":"2/6/1904"
     }
   },
@@ -383,7 +383,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Grand Opera House: Anamosa, IA",
+    "NAME":"Grand Opera House: Anamosa, IA",
     "time":"2/8/1904"
     }
   },
@@ -394,7 +394,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Grand Opera House: Anamosa, IA",
+    "NAME":"Grand Opera House: Anamosa, IA",
     "time":"2/9/1904"
     }
   },
@@ -405,7 +405,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Grand Opera House: Anamosa, IA",
+    "NAME":"Grand Opera House: Anamosa, IA",
     "time":"2/10/1904"
     }
   },
@@ -416,7 +416,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Metropolitan Opera House: Owatonna, MN",
+    "NAME":"Metropolitan Opera House: Owatonna, MN",
     "time":"2/11/1904"
     }
   },
@@ -427,7 +427,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Metropolitan Opera House: Owatonna, MN",
+    "NAME":"Metropolitan Opera House: Owatonna, MN",
     "time":"2/12/1904"
     }
   },
@@ -438,7 +438,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Metropolitan Opera House: Owatonna, MN",
+    "NAME":"Metropolitan Opera House: Owatonna, MN",
     "time":"2/13/1904"
     }
   },
@@ -449,7 +449,7 @@ var brintonJson =
        "coordinates":  [ -93.29026,44.296188 ]
     },
     "properties": {
-    "name":"Grand Opera House: Faribault, MN",
+    "NAME":"Grand Opera House: Faribault, MN",
     "time":"2/15/1904"
     }
   },
@@ -460,7 +460,7 @@ var brintonJson =
        "coordinates":  [ -93.29026,44.296188 ]
     },
     "properties": {
-    "name":"Grand Opera House: Faribault, MN",
+    "NAME":"Grand Opera House: Faribault, MN",
     "time":"2/16/1904"
     }
   },
@@ -471,7 +471,7 @@ var brintonJson =
        "coordinates":  [ -93.29026,44.296188 ]
     },
     "properties": {
-    "name":"Grand Opera House: Faribault, MN",
+    "NAME":"Grand Opera House: Faribault, MN",
     "time":"2/17/1904"
     }
   },
@@ -482,7 +482,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Ward Opera House: Waseca, MN",
+    "NAME":"Ward Opera House: Waseca, MN",
     "time":"2/18/1904"
     }
   },
@@ -493,7 +493,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Ward Opera House: Waseca, MN",
+    "NAME":"Ward Opera House: Waseca, MN",
     "time":"2/19/1904"
     }
   },
@@ -504,7 +504,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Ward Opera House: Waseca, MN",
+    "NAME":"Ward Opera House: Waseca, MN",
     "time":"2/20/1904"
     }
   },
@@ -515,7 +515,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Waterville, MN",
+    "NAME":"Waterville, MN",
     "time":"2/22/1904"
     }
   },
@@ -526,7 +526,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Waterville, MN",
+    "NAME":"Waterville, MN",
     "time":"2/23/1904"
     }
   },
@@ -537,7 +537,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Waterville, MN",
+    "NAME":"Waterville, MN",
     "time":"2/24/1904"
     }
   },
@@ -548,7 +548,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Turner Opera House: New Ulm, MN",
+    "NAME":"Turner Opera House: New Ulm, MN",
     "time":"2/25/1904"
     }
   },
@@ -559,7 +559,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Turner Opera House: New Ulm, MN",
+    "NAME":"Turner Opera House: New Ulm, MN",
     "time":"2/26/1904"
     }
   },
@@ -570,7 +570,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Turner Opera House: New Ulm, MN",
+    "NAME":"Turner Opera House: New Ulm, MN",
     "time":"2/27/1904"
     }
   },
@@ -581,7 +581,7 @@ var brintonJson =
        "coordinates":  [ -93.958529,44.323838 ]
     },
     "properties": {
-    "name":"Rost's Hall: Saint Peter, MN",
+    "NAME":"Rost's Hall: Saint Peter, MN",
     "time":"2/29/1904"
     }
   },
@@ -592,7 +592,7 @@ var brintonJson =
        "coordinates":  [ -93.958529,44.323838 ]
     },
     "properties": {
-    "name":"Rost's Hall: Saint Peter, MN",
+    "NAME":"Rost's Hall: Saint Peter, MN",
     "time":"3/1/1904"
     }
   },
@@ -603,7 +603,7 @@ var brintonJson =
        "coordinates":  [ -93.958529,44.323838 ]
     },
     "properties": {
-    "name":"Rost's Hall: Saint Peter, MN",
+    "NAME":"Rost's Hall: Saint Peter, MN",
     "time":"3/2/1904"
     }
   },
@@ -614,7 +614,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Rochester, MN",
+    "NAME":"Rochester, MN",
     "time":"3/3/1904"
     }
   },
@@ -625,7 +625,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Rochester, MN",
+    "NAME":"Rochester, MN",
     "time":"3/4/1904"
     }
   },
@@ -636,7 +636,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Rochester, MN",
+    "NAME":"Rochester, MN",
     "time":"3/5/1904"
     }
   },
@@ -647,7 +647,7 @@ var brintonJson =
        "coordinates":  [ -92.065982,43.969361 ]
     },
     "properties": {
-    "name":"Saint Charles, MN",
+    "NAME":"Saint Charles, MN",
     "time":"3/7/1904"
     }
   },
@@ -658,7 +658,7 @@ var brintonJson =
        "coordinates":  [ -92.065982,43.969361 ]
     },
     "properties": {
-    "name":"Saint Charles, MN",
+    "NAME":"Saint Charles, MN",
     "time":"3/8/1904"
     }
   },
@@ -669,7 +669,7 @@ var brintonJson =
        "coordinates":  [ -92.065982,43.969361 ]
     },
     "properties": {
-    "name":"Saint Charles, MN",
+    "NAME":"Saint Charles, MN",
     "time":"3/9/1904"
     }
   },
@@ -680,7 +680,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Winona, MN",
+    "NAME":"Winona, MN",
     "time":"3/10/1904"
     }
   },
@@ -691,7 +691,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Winona, MN",
+    "NAME":"Winona, MN",
     "time":"3/11/1904"
     }
   },
@@ -702,7 +702,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Winona, MN",
+    "NAME":"Winona, MN",
     "time":"3/12/1904"
     }
   },
@@ -713,7 +713,7 @@ var brintonJson =
        "coordinates":  [ -92.188091,43.84463 ]
     },
     "properties": {
-    "name":"Chatfield, MN",
+    "NAME":"Chatfield, MN",
     "time":"3/14/1904"
     }
   },
@@ -724,7 +724,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Winona, MN",
+    "NAME":"Winona, MN",
     "time":"3/15/1904"
     }
   },
@@ -735,7 +735,7 @@ var brintonJson =
        "coordinates":  [ -92.188091,43.84463 ]
     },
     "properties": {
-    "name":"Chatfield, MN",
+    "NAME":"Chatfield, MN",
     "time":"3/16/1904"
     }
   },
@@ -746,7 +746,7 @@ var brintonJson =
        "coordinates":  [ -92.188091,43.84463 ]
     },
     "properties": {
-    "name":"Chatfield, MN",
+    "NAME":"Chatfield, MN",
     "time":"3/17/1904"
     }
   },
@@ -757,7 +757,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Winona, MN",
+    "NAME":"Winona, MN",
     "time":"3/18/1904"
     }
   },
@@ -768,7 +768,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Rochester, MN",
+    "NAME":"Rochester, MN",
     "time":"3/19/1904"
     }
   },
@@ -779,7 +779,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Ward Opera House: Waseca, MN",
+    "NAME":"Ward Opera House: Waseca, MN",
     "time":"3/21/1904"
     }
   },
@@ -790,7 +790,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Metropolitan Opera House: Owatonna, MN",
+    "NAME":"Metropolitan Opera House: Owatonna, MN",
     "time":"3/22/1904"
     }
   },
@@ -801,7 +801,7 @@ var brintonJson =
        "coordinates":  [ -93.29026,44.296188 ]
     },
     "properties": {
-    "name":"Grand Opera House: Faribault, MN",
+    "NAME":"Grand Opera House: Faribault, MN",
     "time":"3/23/1904"
     }
   },
@@ -812,7 +812,7 @@ var brintonJson =
        "coordinates":  [ -93.99935,44.163466 ]
     },
     "properties": {
-    "name":"Mankato Theatre: Mankato, MN",
+    "NAME":"Mankato Theatre: Mankato, MN",
     "time":"3/24/1904"
     }
   },
@@ -823,7 +823,7 @@ var brintonJson =
        "coordinates":  [ -93.99935,44.163466 ]
     },
     "properties": {
-    "name":"Mankato Theatre: Mankato, MN",
+    "NAME":"Mankato Theatre: Mankato, MN",
     "time":"3/25/1904"
     }
   },
@@ -834,7 +834,7 @@ var brintonJson =
        "coordinates":  [ -93.99935,44.163466 ]
     },
     "properties": {
-    "name":"Mankato Theatre: Mankato, MN",
+    "NAME":"Mankato Theatre: Mankato, MN",
     "time":"3/26/1904"
     }
   },
@@ -845,7 +845,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Waterville, MN",
+    "NAME":"Waterville, MN",
     "time":"3/28/1904"
     }
   },
@@ -856,7 +856,7 @@ var brintonJson =
        "coordinates":  [ -93.958529,44.323838 ]
     },
     "properties": {
-    "name":"Rost's Hall: Saint Peter, MN",
+    "NAME":"Rost's Hall: Saint Peter, MN",
     "time":"3/29/1904"
     }
   },
@@ -867,7 +867,7 @@ var brintonJson =
        "coordinates":  [ -93.958529,44.323838 ]
     },
     "properties": {
-    "name":"Rost's Hall: Saint Peter, MN",
+    "NAME":"Rost's Hall: Saint Peter, MN",
     "time":"3/30/1904"
     }
   },
@@ -878,7 +878,7 @@ var brintonJson =
        "coordinates":  [ -93.728836,43.746066 ]
     },
     "properties": {
-    "name":"G.A.R. Hall: Wells, MN",
+    "NAME":"G.A.R. Hall: Wells, MN",
     "time":"3/31/1904"
     }
   },
@@ -889,7 +889,7 @@ var brintonJson =
        "coordinates":  [ -93.728836,43.746066 ]
     },
     "properties": {
-    "name":"G.A.R. Hall: Wells, MN",
+    "NAME":"G.A.R. Hall: Wells, MN",
     "time":"4/1/1904"
     }
   },
@@ -900,7 +900,7 @@ var brintonJson =
        "coordinates":  [ -93.728836,43.746066 ]
     },
     "properties": {
-    "name":"G.A.R. Hall: Wells, MN",
+    "NAME":"G.A.R. Hall: Wells, MN",
     "time":"4/2/1904"
     }
   },
@@ -911,7 +911,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House: Charles City, IA",
+    "NAME":"Hildreth Opera House: Charles City, IA",
     "time":"4/4/1904"
     }
   },
@@ -922,7 +922,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House: Charles City, IA",
+    "NAME":"Hildreth Opera House: Charles City, IA",
     "time":"4/5/1904"
     }
   },
@@ -933,7 +933,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House: Charles City, IA",
+    "NAME":"Hildreth Opera House: Charles City, IA",
     "time":"4/6/1904"
     }
   },
@@ -944,7 +944,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Waverly Opera House: Waverly, IA",
+    "NAME":"Waverly Opera House: Waverly, IA",
     "time":"4/7/1904"
     }
   },
@@ -955,7 +955,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Waverly Opera House: Waverly, IA",
+    "NAME":"Waverly Opera House: Waverly, IA",
     "time":"4/8/1904"
     }
   },
@@ -966,7 +966,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Waverly Opera House: Waverly, IA",
+    "NAME":"Waverly Opera House: Waverly, IA",
     "time":"4/9/1904"
     }
   },
@@ -977,7 +977,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Harriman Opera House: Hampton, IA",
+    "NAME":"Harriman Opera House: Hampton, IA",
     "time":"4/11/1904"
     }
   },
@@ -988,7 +988,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Harriman Opera House: Hampton, IA",
+    "NAME":"Harriman Opera House: Hampton, IA",
     "time":"4/12/1904"
     }
   },
@@ -999,7 +999,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Harriman Opera House: Hampton, IA",
+    "NAME":"Harriman Opera House: Hampton, IA",
     "time":"4/13/1904"
     }
   },
@@ -1010,7 +1010,7 @@ var brintonJson =
        "coordinates":  [ -93.215192,42.893517 ]
     },
     "properties": {
-    "name":"Town Hall: Sheffield, IA",
+    "NAME":"Town Hall: Sheffield, IA",
     "time":"4/14/1904"
     }
   },
@@ -1021,7 +1021,7 @@ var brintonJson =
        "coordinates":  [ -93.222146,42.833581 ]
     },
     "properties": {
-    "name":"Chapin, IA",
+    "NAME":"Chapin, IA",
     "time":"4/15/1904"
     }
   },
@@ -1032,7 +1032,7 @@ var brintonJson =
        "coordinates":  [ -93.215192,42.893517 ]
     },
     "properties": {
-    "name":"Town Hall: Sheffield, IA",
+    "NAME":"Town Hall: Sheffield, IA",
     "time":"4/16/1904"
     }
   },
@@ -1043,7 +1043,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Eagle Grove Opera House: Eagle Grove, IA",
+    "NAME":"Eagle Grove Opera House: Eagle Grove, IA",
     "time":"4/18/1904"
     }
   },
@@ -1054,7 +1054,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Eagle Grove Opera House: Eagle Grove, IA",
+    "NAME":"Eagle Grove Opera House: Eagle Grove, IA",
     "time":"4/19/1904"
     }
   },
@@ -1065,7 +1065,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Eagle Grove Opera House: Eagle Grove, IA",
+    "NAME":"Eagle Grove Opera House: Eagle Grove, IA",
     "time":"4/20/1904"
     }
   },
@@ -1076,7 +1076,7 @@ var brintonJson =
        "coordinates":  [ -93.732208,42.731339 ]
     },
     "properties": {
-    "name":"Brown Opera House: Clarion, IA",
+    "NAME":"Brown Opera House: Clarion, IA",
     "time":"4/21/1904"
     }
   },
@@ -1087,7 +1087,7 @@ var brintonJson =
        "coordinates":  [ -93.732208,42.731339 ]
     },
     "properties": {
-    "name":"Brown Opera House: Clarion, IA",
+    "NAME":"Brown Opera House: Clarion, IA",
     "time":"4/22/1904"
     }
   },
@@ -1098,7 +1098,7 @@ var brintonJson =
        "coordinates":  [ -93.732208,42.731339 ]
     },
     "properties": {
-    "name":"Brown Opera House: Clarion, IA",
+    "NAME":"Brown Opera House: Clarion, IA",
     "time":"4/23/1904"
     }
   },
@@ -1109,7 +1109,7 @@ var brintonJson =
        "coordinates":  [ -93.201037,43.153573 ]
     },
     "properties": {
-    "name":"Wilson Opera House: Mason City, IA",
+    "NAME":"Wilson Opera House: Mason City, IA",
     "time":"4/25/1904"
     }
   },
@@ -1120,7 +1120,7 @@ var brintonJson =
        "coordinates":  [ -93.201037,43.153573 ]
     },
     "properties": {
-    "name":"Wilson Opera House: Mason City, IA",
+    "NAME":"Wilson Opera House: Mason City, IA",
     "time":"4/26/1904"
     }
   },
@@ -1131,7 +1131,7 @@ var brintonJson =
        "coordinates":  [ -93.201037,43.153573 ]
     },
     "properties": {
-    "name":"Wilson Opera House: Mason City, IA",
+    "NAME":"Wilson Opera House: Mason City, IA",
     "time":"4/27/1904"
     }
   },
@@ -1142,7 +1142,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Graham Opera House: Washington, IA",
+    "NAME":"Graham Opera House: Washington, IA",
     "time":"5/10/1904"
     }
   },
@@ -1153,7 +1153,7 @@ var brintonJson =
        "coordinates":  [ -91.552384,41.28891 ]
     },
     "properties": {
-    "name":"Ainsworth Opera House: Ainsworth, IA",
+    "NAME":"Ainsworth Opera House: Ainsworth, IA",
     "time":"5/21/1904"
     }
   },
@@ -1164,7 +1164,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"Wayland, IA",
+    "NAME":"Wayland, IA",
     "time":"5/28/1904"
     }
   },
@@ -1175,7 +1175,7 @@ var brintonJson =
        "coordinates":  [ -91.714486,41.475053 ]
     },
     "properties": {
-    "name":"Kalona Opera House: Kalona, IA",
+    "NAME":"Kalona Opera House: Kalona, IA",
     "time":"6/4/1904"
     }
   },
@@ -1186,7 +1186,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"Crawfordsville Town Hall: Crawfordsville, IA",
+    "NAME":"Crawfordsville Town Hall: Crawfordsville, IA",
     "time":"6/11/1904"
     }
   },
@@ -1197,7 +1197,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Wellman, IA",
+    "NAME":"Wellman, IA",
     "time":"6/18/1904"
     }
   },
@@ -1208,7 +1208,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Wellman, IA",
+    "NAME":"Wellman, IA",
     "time":"6/25/1904"
     }
   },
@@ -1219,7 +1219,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Poor Farm Near Washington: Washington, IA",
+    "NAME":"Poor Farm Near Washington: Washington, IA",
     "time":"7/2/1904"
     }
   },
@@ -1230,7 +1230,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"Baldwin's Hall: Hedrick, IA",
+    "NAME":"Baldwin's Hall: Hedrick, IA",
     "time":"7/4/1904"
     }
   },
@@ -1241,7 +1241,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"River Park: Brighton, IA",
+    "NAME":"River Park: Brighton, IA",
     "time":"7/16/1904"
     }
   },
@@ -1252,7 +1252,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"Crawfordsville Town Hall: Crawfordsville, IA",
+    "NAME":"Crawfordsville Town Hall: Crawfordsville, IA",
     "time":"7/23/1904"
     }
   },
@@ -1263,7 +1263,7 @@ var brintonJson =
        "coordinates":  [ -91.817671,41.338904 ]
     },
     "properties": {
-    "name":"Baptist Church: West Chester, IA",
+    "NAME":"Baptist Church: West Chester, IA",
     "time":"7/30/1904"
     }
   },
@@ -1274,7 +1274,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"River Park: Brighton, IA",
+    "NAME":"River Park: Brighton, IA",
     "time":"8/6/1904"
     }
   },
@@ -1285,7 +1285,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"Wayland, IA",
+    "NAME":"Wayland, IA",
     "time":"8/13/1904"
     }
   },
@@ -1296,7 +1296,7 @@ var brintonJson =
        "coordinates":  [ -91.706002,41.483072 ]
     },
     "properties": {
-    "name":"Kalona Opera House: Kalona, IA",
+    "NAME":"Kalona Opera House: Kalona, IA",
     "time":"8/27/1904"
     }
   },
@@ -1307,7 +1307,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Graham Opera House: Washington, IA",
+    "NAME":"Graham Opera House: Washington, IA",
     "time":"9/10/1904"
     }
   },
@@ -1318,7 +1318,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Keota, IA",
+    "NAME":"Keota, IA",
     "time":"9/13/1904"
     }
   },
@@ -1329,7 +1329,7 @@ var brintonJson =
        "coordinates":  [ -92.20484,41.333046 ]
     },
     "properties": {
-    "name":"Sigourney, IA",
+    "NAME":"Sigourney, IA",
     "time":"9/14/1904"
     }
   },
@@ -1340,7 +1340,7 @@ var brintonJson =
        "coordinates":  [ -92.308461,41.17448 ]
     },
     "properties": {
-    "name":"Hendrick, IA",
+    "NAME":"Hendrick, IA",
     "time":"9/15/1904"
     }
   },
@@ -1351,7 +1351,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Richland, IA",
+    "NAME":"Richland, IA",
     "time":"9/16/1904"
     }
   },
@@ -1362,7 +1362,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"Brighton, IA",
+    "NAME":"Brighton, IA",
     "time":"9/17/1904"
     }
   },
@@ -1373,7 +1373,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Mount Pleasant, IA",
+    "NAME":"Mount Pleasant, IA",
     "time":"9/21/1904"
     }
   },
@@ -1384,7 +1384,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Mount Pleasant, IA",
+    "NAME":"Mount Pleasant, IA",
     "time":"9/22/1904"
     }
   },
@@ -1395,7 +1395,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Mount Pleasant, IA",
+    "NAME":"Mount Pleasant, IA",
     "time":"9/23/1904"
     }
   },
@@ -1406,7 +1406,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Graham Opera House: Washington, IA",
+    "NAME":"Graham Opera House: Washington, IA",
     "time":"10/9/1904"
     }
   },
@@ -1417,7 +1417,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Richland Church: Richland, IA",
+    "NAME":"Richland Church: Richland, IA",
     "time":"10/20/1904"
     }
   },
@@ -1428,7 +1428,7 @@ var brintonJson =
        "coordinates":  [ -92.251849,41.178903 ]
     },
     "properties": {
-    "name":"Alexander Hall: Martinsburg, IA",
+    "NAME":"Alexander Hall: Martinsburg, IA",
     "time":"10/21/1904"
     }
   },
@@ -1439,7 +1439,7 @@ var brintonJson =
        "coordinates":  [ -92.093089,41.198372 ]
     },
     "properties": {
-    "name":"LaToska Opera House: Ollie, IA",
+    "NAME":"LaToska Opera House: Ollie, IA",
     "time":"10/22/1904"
     }
   },
@@ -1450,7 +1450,7 @@ var brintonJson =
        "coordinates":  [ -95.592478,40.734594 ]
     },
     "properties": {
-    "name":"Fremont, IA",
+    "NAME":"Fremont, IA",
     "time":"10/24/1904"
     }
   },
@@ -1461,7 +1461,7 @@ var brintonJson =
        "coordinates":  [ -95.592478,40.734594 ]
     },
     "properties": {
-    "name":"Fremont, IA",
+    "NAME":"Fremont, IA",
     "time":"10/25/1904"
     }
   },
@@ -1472,7 +1472,7 @@ var brintonJson =
        "coordinates":  [ -95.592478,40.734594 ]
     },
     "properties": {
-    "name":"Fremont, IA",
+    "NAME":"Fremont, IA",
     "time":"10/26/1904"
     }
   },
@@ -1483,7 +1483,7 @@ var brintonJson =
        "coordinates":  [ -92.634372,41.157248 ]
     },
     "properties": {
-    "name":"Opera House: Eddyville, IA",
+    "NAME":"Opera House: Eddyville, IA",
     "time":"10/27/1904"
     }
   },
@@ -1494,7 +1494,7 @@ var brintonJson =
        "coordinates":  [ -92.634372,41.157248 ]
     },
     "properties": {
-    "name":"Opera House: Eddyville, IA",
+    "NAME":"Opera House: Eddyville, IA",
     "time":"10/28/1904"
     }
   },
@@ -1505,7 +1505,7 @@ var brintonJson =
        "coordinates":  [ -92.634372,41.157248 ]
     },
     "properties": {
-    "name":"Opera House: Eddyville, IA",
+    "NAME":"Opera House: Eddyville, IA",
     "time":"10/29/1904"
     }
   },
@@ -1516,7 +1516,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"United Methodist Church: Grinnell, IA",
+    "NAME":"United Methodist Church: Grinnell, IA",
     "time":"10/31/1904"
     }
   },
@@ -1527,7 +1527,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"United Methodist Church: Grinnell, IA",
+    "NAME":"United Methodist Church: Grinnell, IA",
     "time":"11/1/1904"
     }
   },
@@ -1538,7 +1538,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"United Methodist Church: Grinnell, IA",
+    "NAME":"United Methodist Church: Grinnell, IA",
     "time":"11/2/1904"
     }
   },
@@ -1549,7 +1549,7 @@ var brintonJson =
        "coordinates":  [ -92.527431,41.584878 ]
     },
     "properties": {
-    "name":"Montezuma Opera House: Montezuma, IA",
+    "NAME":"Montezuma Opera House: Montezuma, IA",
     "time":"11/3/1904"
     }
   },
@@ -1560,7 +1560,7 @@ var brintonJson =
        "coordinates":  [ -92.354629,41.401397 ]
     },
     "properties": {
-    "name":"Masonic Opera House: What Cheer, IA",
+    "NAME":"Masonic Opera House: What Cheer, IA",
     "time":"11/4/1904"
     }
   },
@@ -1571,7 +1571,7 @@ var brintonJson =
        "coordinates":  [ -92.354629,41.401397 ]
     },
     "properties": {
-    "name":"Masonic Opera House: What Cheer, IA",
+    "NAME":"Masonic Opera House: What Cheer, IA",
     "time":"11/5/1904"
     }
   },
@@ -1582,7 +1582,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Graham Opera House: Washington, IA",
+    "NAME":"Graham Opera House: Washington, IA",
     "time":"11/8/1904"
     }
   },
@@ -1593,7 +1593,7 @@ var brintonJson =
        "coordinates":  [ -91.706002,41.483072 ]
     },
     "properties": {
-    "name":"Kalona Opera House: Kalona, IA",
+    "NAME":"Kalona Opera House: Kalona, IA",
     "time":"11/10/1904"
     }
   },
@@ -1604,7 +1604,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Wellman, IA",
+    "NAME":"Wellman, IA",
     "time":"11/11/1904"
     }
   },
@@ -1615,7 +1615,7 @@ var brintonJson =
        "coordinates":  [ -92.171841,41.438889 ]
     },
     "properties": {
-    "name":"Webster, IA",
+    "NAME":"Webster, IA",
     "time":"11/12/1904"
     }
   },
@@ -1626,7 +1626,7 @@ var brintonJson =
        "coordinates":  [ -92.171841,41.438889 ]
     },
     "properties": {
-    "name":"Webster, IA",
+    "NAME":"Webster, IA",
     "time":"11/14/1904"
     }
   },
@@ -1637,7 +1637,7 @@ var brintonJson =
        "coordinates":  [ -92.239348,41.452508 ]
     },
     "properties": {
-    "name":"Keswick, IA",
+    "NAME":"Keswick, IA",
     "time":"11/15/1904"
     }
   },
@@ -1648,7 +1648,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Christian Church: North English, IA",
+    "NAME":"Christian Church: North English, IA",
     "time":"11/17/1904"
     }
   },
@@ -1659,7 +1659,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Trojan Opera House: Williamsburg, IA",
+    "NAME":"Trojan Opera House: Williamsburg, IA",
     "time":"11/18/1904"
     }
   },
@@ -1670,7 +1670,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Trojan Opera House: Williamsburg, IA",
+    "NAME":"Trojan Opera House: Williamsburg, IA",
     "time":"11/19/1904"
     }
   },
@@ -1681,7 +1681,7 @@ var brintonJson =
        "coordinates":  [ -92.083342,41.907089 ]
     },
     "properties": {
-    "name":"Brian Opera House: Blairstown, IA",
+    "NAME":"Brian Opera House: Blairstown, IA",
     "time":"11/21/1904"
     }
   },
@@ -1692,7 +1692,7 @@ var brintonJson =
        "coordinates":  [ -92.083342,41.907089 ]
     },
     "properties": {
-    "name":"Brian Opera House: Blairstown, IA",
+    "NAME":"Brian Opera House: Blairstown, IA",
     "time":"11/22/1904"
     }
   },
@@ -1703,7 +1703,7 @@ var brintonJson =
        "coordinates":  [ -91.921569,41.902781 ]
     },
     "properties": {
-    "name":"Norway Opera House: Norway, IA",
+    "NAME":"Norway Opera House: Norway, IA",
     "time":"11/24/1904"
     }
   },
@@ -1714,7 +1714,7 @@ var brintonJson =
        "coordinates":  [ -91.921569,41.902781 ]
     },
     "properties": {
-    "name":"Norway Opera House: Norway, IA",
+    "NAME":"Norway Opera House: Norway, IA",
     "time":"11/25/1904"
     }
   },
@@ -1725,7 +1725,7 @@ var brintonJson =
        "coordinates":  [ -91.921569,41.902781 ]
     },
     "properties": {
-    "name":"Norway Opera House: Norway, IA",
+    "NAME":"Norway Opera House: Norway, IA",
     "time":"11/26/1904"
     }
   },
@@ -1736,7 +1736,7 @@ var brintonJson =
        "coordinates":  [ -91.524056,42.203883 ]
     },
     "properties": {
-    "name":"Central City, IA",
+    "NAME":"Central City, IA",
     "time":"11/28/1904"
     }
   },
@@ -1747,7 +1747,7 @@ var brintonJson =
        "coordinates":  [ -91.524056,42.203883 ]
     },
     "properties": {
-    "name":"Central City, IA",
+    "NAME":"Central City, IA",
     "time":"11/29/1904"
     }
   },
@@ -1758,7 +1758,7 @@ var brintonJson =
        "coordinates":  [ -91.524056,42.203883 ]
     },
     "properties": {
-    "name":"Central City, IA",
+    "NAME":"Central City, IA",
     "time":"11/30/1904"
     }
   },
@@ -1769,7 +1769,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"12/1/1904"
     }
   },
@@ -1780,7 +1780,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"12/2/1904"
     }
   },
@@ -1791,7 +1791,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"12/3/1904"
     }
   },
@@ -1802,7 +1802,7 @@ var brintonJson =
        "coordinates":  [ -91.455425,42.484154 ]
     },
     "properties": {
-    "name":"Central Opera House: Manchester, IA",
+    "NAME":"Central Opera House: Manchester, IA",
     "time":"12/3/1904"
     }
   },
@@ -1813,7 +1813,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Cascade Opera House: Cascade, IA",
+    "NAME":"Cascade Opera House: Cascade, IA",
     "time":"12/5/1904"
     }
   },
@@ -1824,7 +1824,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Cascade Opera House: Cascade, IA",
+    "NAME":"Cascade Opera House: Cascade, IA",
     "time":"12/6/1904"
     }
   },
@@ -1835,7 +1835,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Preston Opera House: Grinnell, IA",
+    "NAME":"Preston Opera House: Grinnell, IA",
     "time":"12/8/1904"
     }
   },
@@ -1846,7 +1846,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Preston Opera House: Grinnell, IA",
+    "NAME":"Preston Opera House: Grinnell, IA",
     "time":"12/9/1904"
     }
   },
@@ -1857,7 +1857,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Preston Opera House: Grinnell, IA",
+    "NAME":"Preston Opera House: Grinnell, IA",
     "time":"12/10/1904"
     }
   },
@@ -1868,7 +1868,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Preston Opera House: Grinnell, IA",
+    "NAME":"Preston Opera House: Grinnell, IA",
     "time":"12/10/1904"
     }
   },
@@ -1879,7 +1879,7 @@ var brintonJson =
        "coordinates":  [ -92.445463,41.733609 ]
     },
     "properties": {
-    "name":"Brooklyn Opera House: Brooklyn, IA",
+    "NAME":"Brooklyn Opera House: Brooklyn, IA",
     "time":"12/12/1904"
     }
   },
@@ -1890,7 +1890,7 @@ var brintonJson =
        "coordinates":  [ -92.445463,41.733609 ]
     },
     "properties": {
-    "name":"Brooklyn Opera House: Brooklyn, IA",
+    "NAME":"Brooklyn Opera House: Brooklyn, IA",
     "time":"12/13/1904"
     }
   },
@@ -1901,7 +1901,7 @@ var brintonJson =
        "coordinates":  [ -92.445463,41.733609 ]
     },
     "properties": {
-    "name":"Brooklyn Opera House: Brooklyn, IA",
+    "NAME":"Brooklyn Opera House: Brooklyn, IA",
     "time":"12/14/1904"
     }
   },
@@ -1912,7 +1912,7 @@ var brintonJson =
        "coordinates":  [ -92.559076,41.70833 ]
     },
     "properties": {
-    "name":"Malcom, IA",
+    "NAME":"Malcom, IA",
     "time":"12/15/1904"
     }
   },
@@ -1923,7 +1923,7 @@ var brintonJson =
        "coordinates":  [ -92.239348,41.452508 ]
     },
     "properties": {
-    "name":"Keswick, IA",
+    "NAME":"Keswick, IA",
     "time":"12/16/1904"
     }
   },
@@ -1934,7 +1934,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Christian Church: North English, IA",
+    "NAME":"Christian Church: North English, IA",
     "time":"12/17/1904"
     }
   },
@@ -1945,7 +1945,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Graham Opera House: Washington, IA",
+    "NAME":"Graham Opera House: Washington, IA",
     "time":"12/31/1904"
     }
   },
@@ -1956,7 +1956,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/1/1905"
     }
   },
@@ -1967,7 +1967,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/2/1905"
     }
   },
@@ -1978,7 +1978,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/3/1905"
     }
   },
@@ -1989,7 +1989,7 @@ var brintonJson =
        "coordinates":  [ -91.127935,41.769743 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/4/1905"
     }
   },
@@ -2000,7 +2000,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/5/1905"
     }
   },
@@ -2011,7 +2011,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/6/1905"
     }
   },
@@ -2022,7 +2022,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/7/1905"
     }
   },
@@ -2033,7 +2033,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/8/1905"
     }
   },
@@ -2044,7 +2044,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/9/1905"
     }
   },
@@ -2055,7 +2055,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/10/1905"
     }
   },
@@ -2066,7 +2066,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/11/1905"
     }
   },
@@ -2077,7 +2077,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House",
+    "NAME":"Hildreth Opera House",
     "time":"1/12/1905"
     }
   },
@@ -2088,7 +2088,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House",
+    "NAME":"Hildreth Opera House",
     "time":"1/13/1905"
     }
   },
@@ -2099,7 +2099,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House",
+    "NAME":"Hildreth Opera House",
     "time":"1/14/1905"
     }
   },
@@ -2110,7 +2110,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/15/1905"
     }
   },
@@ -2121,7 +2121,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/16/1905"
     }
   },
@@ -2132,7 +2132,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/17/1905"
     }
   },
@@ -2143,7 +2143,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/18/1905"
     }
   },
@@ -2154,7 +2154,7 @@ var brintonJson =
        "coordinates":  [ -90.633502,41.573841 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/19/1905"
     }
   },
@@ -2165,7 +2165,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/20/1905"
     }
   },
@@ -2176,7 +2176,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/21/1905"
     }
   },
@@ -2187,7 +2187,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/22/1905"
     }
   },
@@ -2198,7 +2198,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/23/1905"
     }
   },
@@ -2209,7 +2209,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/24/1905"
     }
   },
@@ -2220,7 +2220,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/25/1905"
     }
   },
@@ -2231,7 +2231,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"1/26/1905"
     }
   },
@@ -2242,7 +2242,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/27/1905"
     }
   },
@@ -2253,7 +2253,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/28/1905"
     }
   },
@@ -2264,7 +2264,7 @@ var brintonJson =
        "coordinates":  [ -94.168016,42.497469 ]
     },
     "properties": {
-    "name":"Midland Theater",
+    "NAME":"Midland Theater",
     "time":"1/30/1905"
     }
   },
@@ -2275,7 +2275,7 @@ var brintonJson =
        "coordinates":  [ -94.168016,42.497469 ]
     },
     "properties": {
-    "name":"Midland Theater",
+    "NAME":"Midland Theater",
     "time":"1/31/1905"
     }
   },
@@ -2286,7 +2286,7 @@ var brintonJson =
        "coordinates":  [ -94.168016,42.497469 ]
     },
     "properties": {
-    "name":"Midland Theater",
+    "NAME":"Midland Theater",
     "time":"2/1/1905"
     }
   },
@@ -2297,7 +2297,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Hotel",
+    "NAME":"Gedney Hotel",
     "time":"2/2/1905"
     }
   },
@@ -2308,7 +2308,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Hotel",
+    "NAME":"Gedney Hotel",
     "time":"2/3/1905"
     }
   },
@@ -2319,7 +2319,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Hotel",
+    "NAME":"Gedney Hotel",
     "time":"2/4/1905"
     }
   },
@@ -2330,7 +2330,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/5/1905"
     }
   },
@@ -2341,7 +2341,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Oden Opera House",
+    "NAME":"Oden Opera House",
     "time":"2/6/1905"
     }
   },
@@ -2352,7 +2352,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Oden Opera House",
+    "NAME":"Oden Opera House",
     "time":"2/7/1905"
     }
   },
@@ -2363,7 +2363,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Oden Opera House",
+    "NAME":"Oden Opera House",
     "time":"2/8/1905"
     }
   },
@@ -2374,7 +2374,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/9/1905"
     }
   },
@@ -2385,7 +2385,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/10/1905"
     }
   },
@@ -2396,7 +2396,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/11/1905"
     }
   },
@@ -2407,7 +2407,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/12/1905"
     }
   },
@@ -2418,7 +2418,7 @@ var brintonJson =
        "coordinates":  [ -93.452434,42.022765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/13/1905"
     }
   },
@@ -2429,7 +2429,7 @@ var brintonJson =
        "coordinates":  [ -93.452434,42.022765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/14/1905"
     }
   },
@@ -2440,7 +2440,7 @@ var brintonJson =
        "coordinates":  [ -93.452434,42.022765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/15/1905"
     }
   },
@@ -2451,7 +2451,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"2/16/1905"
     }
   },
@@ -2462,7 +2462,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"2/17/1905"
     }
   },
@@ -2473,7 +2473,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"2/18/1905"
     }
   },
@@ -2484,7 +2484,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"2/18/1905"
     }
   },
@@ -2495,7 +2495,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/19/1905"
     }
   },
@@ -2506,7 +2506,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/20/1905"
     }
   },
@@ -2517,7 +2517,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/21/1905"
     }
   },
@@ -2528,7 +2528,7 @@ var brintonJson =
        "coordinates":  [ -93.90439,42.664138 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/22/1905"
     }
   },
@@ -2539,7 +2539,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/23/1905"
     }
   },
@@ -2550,7 +2550,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/24/1905"
     }
   },
@@ -2561,7 +2561,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/25/1905"
     }
   },
@@ -2572,7 +2572,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/26/1905"
     }
   },
@@ -2583,7 +2583,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"2/27/1905"
     }
   },
@@ -2594,7 +2594,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"2/28/1905"
     }
   },
@@ -2605,7 +2605,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"3/1/1905"
     }
   },
@@ -2616,7 +2616,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/2/1905"
     }
   },
@@ -2627,7 +2627,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/3/1905"
     }
   },
@@ -2638,7 +2638,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/4/1905"
     }
   },
@@ -2649,7 +2649,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/4/1905"
     }
   },
@@ -2660,7 +2660,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/6/1905"
     }
   },
@@ -2671,7 +2671,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/7/1905"
     }
   },
@@ -2682,7 +2682,7 @@ var brintonJson =
        "coordinates":  [ -91.639229,44.050005 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/8/1905"
     }
   },
@@ -2693,7 +2693,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/9/1905"
     }
   },
@@ -2704,7 +2704,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/10/1905"
     }
   },
@@ -2715,7 +2715,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Insane Asylum",
+    "NAME":"Insane Asylum",
     "time":"3/11/1905"
     }
   },
@@ -2726,7 +2726,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/11/1905"
     }
   },
@@ -2737,7 +2737,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/12/1905"
     }
   },
@@ -2748,7 +2748,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"3/13/1905"
     }
   },
@@ -2759,7 +2759,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"3/14/1905"
     }
   },
@@ -2770,7 +2770,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"3/15/1905"
     }
   },
@@ -2781,7 +2781,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/16/1905"
     }
   },
@@ -2792,7 +2792,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/17/1905"
     }
   },
@@ -2803,7 +2803,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met Opera House",
+    "NAME":"Met Opera House",
     "time":"3/18/1905"
     }
   },
@@ -2814,7 +2814,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/19/1905"
     }
   },
@@ -2825,7 +2825,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/20/1905"
     }
   },
@@ -2836,7 +2836,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/21/1905"
     }
   },
@@ -2847,7 +2847,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/22/1905"
     }
   },
@@ -2858,7 +2858,7 @@ var brintonJson =
        "coordinates":  [ -93.161159,44.458204 ]
     },
     "properties": {
-    "name":"[Ware Auditorium]",
+    "NAME":"[Ware Auditorium]",
     "time":"3/23/1905"
     }
   },
@@ -2869,7 +2869,7 @@ var brintonJson =
        "coordinates":  [ -93.161159,44.458204 ]
     },
     "properties": {
-    "name":"[Ware Auditorium]",
+    "NAME":"[Ware Auditorium]",
     "time":"3/24/1905"
     }
   },
@@ -2880,7 +2880,7 @@ var brintonJson =
        "coordinates":  [ -93.161159,44.458204 ]
     },
     "properties": {
-    "name":"[Ware Auditorium]",
+    "NAME":"[Ware Auditorium]",
     "time":"3/25/1905"
     }
   },
@@ -2891,7 +2891,7 @@ var brintonJson =
        "coordinates":  [ -93.161159,44.458204 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/26/1905"
     }
   },
@@ -2902,7 +2902,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theater",
+    "NAME":"Broadway Theater",
     "time":"3/27/1905"
     }
   },
@@ -2913,7 +2913,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theater",
+    "NAME":"Broadway Theater",
     "time":"3/28/1905"
     }
   },
@@ -2924,7 +2924,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theater",
+    "NAME":"Broadway Theater",
     "time":"3/29/1905"
     }
   },
@@ -2935,7 +2935,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Auditorium",
+    "NAME":"Auditorium",
     "time":"3/30/1905"
     }
   },
@@ -2946,7 +2946,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Auditorium",
+    "NAME":"Auditorium",
     "time":"3/31/1905"
     }
   },
@@ -2957,7 +2957,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"Auditorium",
+    "NAME":"Auditorium",
     "time":"4/1/1905"
     }
   },
@@ -2968,7 +2968,7 @@ var brintonJson =
        "coordinates":  [ -93.56797,44.218991 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/2/1905"
     }
   },
@@ -2979,7 +2979,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/3/1905"
     }
   },
@@ -2990,7 +2990,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/4/1905"
     }
   },
@@ -3001,7 +3001,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/5/1905"
     }
   },
@@ -3012,7 +3012,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/6/1905"
     }
   },
@@ -3023,7 +3023,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/7/1905"
     }
   },
@@ -3034,7 +3034,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/8/1905"
     }
   },
@@ -3045,7 +3045,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/9/1905"
     }
   },
@@ -3056,7 +3056,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/10/1905"
     }
   },
@@ -3067,7 +3067,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/11/1905"
     }
   },
@@ -3078,7 +3078,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/12/1905"
     }
   },
@@ -3089,7 +3089,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/13/1905"
     }
   },
@@ -3100,7 +3100,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/14/1905"
     }
   },
@@ -3111,7 +3111,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/15/1905"
     }
   },
@@ -3122,7 +3122,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"4/17/1905"
     }
   },
@@ -3133,7 +3133,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"4/18/1905"
     }
   },
@@ -3144,7 +3144,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"4/19/1905"
     }
   },
@@ -3155,7 +3155,7 @@ var brintonJson =
        "coordinates":  [ -93.099646,42.360816 ]
     },
     "properties": {
-    "name":"Wisner Opera House",
+    "NAME":"Wisner Opera House",
     "time":"4/20/1905"
     }
   },
@@ -3166,7 +3166,7 @@ var brintonJson =
        "coordinates":  [ -93.099646,42.360816 ]
     },
     "properties": {
-    "name":"Wisner Opera House",
+    "NAME":"Wisner Opera House",
     "time":"4/21/1905"
     }
   },
@@ -3177,7 +3177,7 @@ var brintonJson =
        "coordinates":  [ -93.099646,42.360816 ]
     },
     "properties": {
-    "name":"Wisner Opera House",
+    "NAME":"Wisner Opera House",
     "time":"4/22/1905"
     }
   },
@@ -3188,7 +3188,7 @@ var brintonJson =
        "coordinates":  [ -93.099646,42.360816 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/23/1905"
     }
   },
@@ -3199,7 +3199,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/24/1905"
     }
   },
@@ -3210,7 +3210,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/25/1905"
     }
   },
@@ -3221,7 +3221,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Opera House",
+    "NAME":"Gedney Opera House",
     "time":"4/26/1905"
     }
   },
@@ -3232,7 +3232,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/27/1905"
     }
   },
@@ -3243,7 +3243,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/28/1905"
     }
   },
@@ -3254,7 +3254,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/29/1905"
     }
   },
@@ -3265,7 +3265,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/30/1905"
     }
   },
@@ -3276,7 +3276,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/1/1905"
     }
   },
@@ -3287,7 +3287,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/2/1905"
     }
   },
@@ -3298,7 +3298,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/3/1905"
     }
   },
@@ -3309,7 +3309,7 @@ var brintonJson =
        "coordinates":  [ -90.633502,41.573841 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/4/1905"
     }
   },
@@ -3320,7 +3320,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/5/1905"
     }
   },
@@ -3331,7 +3331,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/6/1905"
     }
   },
@@ -3342,7 +3342,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/7/1905"
     }
   },
@@ -3353,7 +3353,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/8/1905"
     }
   },
@@ -3364,7 +3364,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/9/1905"
     }
   },
@@ -3375,7 +3375,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/10/1905"
     }
   },
@@ -3386,7 +3386,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/11/1905"
     }
   },
@@ -3397,7 +3397,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/12/1905"
     }
   },
@@ -3408,7 +3408,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/13/1905"
     }
   },
@@ -3419,7 +3419,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/14/1905"
     }
   },
@@ -3430,7 +3430,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/15/1905"
     }
   },
@@ -3441,7 +3441,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/16/1905"
     }
   },
@@ -3452,7 +3452,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/17/1905"
     }
   },
@@ -3463,7 +3463,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/18/1905"
     }
   },
@@ -3474,7 +3474,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/19/1905"
     }
   },
@@ -3485,7 +3485,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/20/1905"
     }
   },
@@ -3496,7 +3496,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/21/1905"
     }
   },
@@ -3507,7 +3507,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/22/1905"
     }
   },
@@ -3518,7 +3518,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/23/1905"
     }
   },
@@ -3529,7 +3529,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/24/1905"
     }
   },
@@ -3540,7 +3540,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/25/1905"
     }
   },
@@ -3551,7 +3551,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/26/1905"
     }
   },
@@ -3562,7 +3562,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/27/1905"
     }
   },
@@ -3573,7 +3573,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/28/1905"
     }
   },
@@ -3584,7 +3584,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/29/1905"
     }
   },
@@ -3595,7 +3595,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/30/1905"
     }
   },
@@ -3606,7 +3606,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/31/1905"
     }
   },
@@ -3617,7 +3617,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/1/1905"
     }
   },
@@ -3628,7 +3628,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/2/1905"
     }
   },
@@ -3639,7 +3639,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/3/1905"
     }
   },
@@ -3650,7 +3650,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/4/1905"
     }
   },
@@ -3661,7 +3661,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/5/1905"
     }
   },
@@ -3672,7 +3672,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/6/1905"
     }
   },
@@ -3683,7 +3683,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/7/1905"
     }
   },
@@ -3694,7 +3694,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/8/1905"
     }
   },
@@ -3705,7 +3705,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/9/1905"
     }
   },
@@ -3716,7 +3716,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/10/1905"
     }
   },
@@ -3727,7 +3727,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Methodist Church Tent",
+    "NAME":"Methodist Church Tent",
     "time":"6/22/1905"
     }
   },
@@ -3738,7 +3738,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"6/23/1905"
     }
   },
@@ -3749,7 +3749,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"6/24/1905"
     }
   },
@@ -3760,7 +3760,7 @@ var brintonJson =
        "coordinates":  [ -91.817671,41.338904 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/4/1905"
     }
   },
@@ -3771,7 +3771,7 @@ var brintonJson =
        "coordinates":  [ -91.552384,41.28891 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"7/8/1905"
     }
   },
@@ -3782,7 +3782,7 @@ var brintonJson =
        "coordinates":  [ -93.31227,41.921673 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/15/1905"
     }
   },
@@ -3793,7 +3793,7 @@ var brintonJson =
        "coordinates":  [ -93.31227,41.921673 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/17/1905"
     }
   },
@@ -3804,7 +3804,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/18/1905"
     }
   },
@@ -3815,7 +3815,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/19/1905"
     }
   },
@@ -3826,7 +3826,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/20/1905"
     }
   },
@@ -3837,7 +3837,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/21/1905"
     }
   },
@@ -3848,7 +3848,7 @@ var brintonJson =
        "coordinates":  [ -91.937674,41.221126 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/22/1905"
     }
   },
@@ -3859,7 +3859,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/24/1905"
     }
   },
@@ -3870,7 +3870,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/25/1905"
     }
   },
@@ -3881,7 +3881,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/26/1905"
     }
   },
@@ -3892,7 +3892,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/27/1905"
     }
   },
@@ -3903,7 +3903,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/28/1905"
     }
   },
@@ -3914,7 +3914,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/29/1905"
     }
   },
@@ -3925,7 +3925,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/30/1905"
     }
   },
@@ -3936,7 +3936,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/31/1905"
     }
   },
@@ -3947,7 +3947,7 @@ var brintonJson =
        "coordinates":  [ -91.401233,40.926846 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/1/1905"
     }
   },
@@ -3958,7 +3958,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/2/1905"
     }
   },
@@ -3969,7 +3969,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/3/1905"
     }
   },
@@ -3980,7 +3980,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/4/1905"
     }
   },
@@ -3991,7 +3991,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/5/1905"
     }
   },
@@ -4002,7 +4002,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/7/1905"
     }
   },
@@ -4013,7 +4013,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/8/1905"
     }
   },
@@ -4024,7 +4024,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/9/1905"
     }
   },
@@ -4035,7 +4035,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/10/1905"
     }
   },
@@ -4046,7 +4046,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/11/1905"
     }
   },
@@ -4057,7 +4057,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/12/1905"
     }
   },
@@ -4068,7 +4068,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/13/1905"
     }
   },
@@ -4079,7 +4079,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/14/1905"
     }
   },
@@ -4090,7 +4090,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/15/1905"
     }
   },
@@ -4101,7 +4101,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/16/1905"
     }
   },
@@ -4112,7 +4112,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/17/1905"
     }
   },
@@ -4123,7 +4123,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/18/1905"
     }
   },
@@ -4134,7 +4134,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/19/1905"
     }
   },
@@ -4145,7 +4145,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/20/1905"
     }
   },
@@ -4156,7 +4156,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/21/1905"
     }
   },
@@ -4167,7 +4167,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/22/1905"
     }
   },
@@ -4178,7 +4178,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/23/1905"
     }
   },
@@ -4189,7 +4189,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/24/1905"
     }
   },
@@ -4200,7 +4200,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/25/1905"
     }
   },
@@ -4211,7 +4211,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/26/1905"
     }
   },
@@ -4222,7 +4222,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/27/1905"
     }
   },
@@ -4233,7 +4233,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/28/1905"
     }
   },
@@ -4244,7 +4244,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/29/1905"
     }
   },
@@ -4255,7 +4255,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/30/1905"
     }
   },
@@ -4266,7 +4266,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/31/1905"
     }
   },
@@ -4277,7 +4277,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/1/1905"
     }
   },
@@ -4288,7 +4288,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/2/1905"
     }
   },
@@ -4299,7 +4299,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/3/1905"
     }
   },
@@ -4310,7 +4310,7 @@ var brintonJson =
        "coordinates":  [ -92.330184,41.322788 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/4/1905"
     }
   },
@@ -4321,7 +4321,7 @@ var brintonJson =
        "coordinates":  [ -92.330184,41.322788 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/5/1905"
     }
   },
@@ -4332,7 +4332,7 @@ var brintonJson =
        "coordinates":  [ -92.330184,41.322788 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/6/1905"
     }
   },
@@ -4343,7 +4343,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/7/1905"
     }
   },
@@ -4354,7 +4354,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/8/1905"
     }
   },
@@ -4365,7 +4365,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/9/1905"
     }
   },
@@ -4376,7 +4376,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/11/1905"
     }
   },
@@ -4387,7 +4387,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/12/1905"
     }
   },
@@ -4398,7 +4398,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/13/1905"
     }
   },
@@ -4409,7 +4409,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/14/1905"
     }
   },
@@ -4420,7 +4420,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/15/1905"
     }
   },
@@ -4431,7 +4431,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/16/1905"
     }
   },
@@ -4442,7 +4442,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/17/1905"
     }
   },
@@ -4453,7 +4453,7 @@ var brintonJson =
        "coordinates":  [ -92.20484,41.333046 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/18/1905"
     }
   },
@@ -4464,7 +4464,7 @@ var brintonJson =
        "coordinates":  [ -92.20484,41.333046 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/19/1905"
     }
   },
@@ -4475,7 +4475,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/21/1905"
     }
   },
@@ -4486,7 +4486,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/22/1905"
     }
   },
@@ -4497,7 +4497,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/23/1905"
     }
   },
@@ -4508,7 +4508,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/24/1905"
     }
   },
@@ -4519,7 +4519,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/25/1905"
     }
   },
@@ -4530,7 +4530,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/26/1905"
     }
   },
@@ -4541,7 +4541,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/27/1905"
     }
   },
@@ -4552,7 +4552,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/28/1905"
     }
   },
@@ -4563,7 +4563,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/29/1905"
     }
   },
@@ -4574,7 +4574,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/30/1905"
     }
   },
@@ -4585,7 +4585,7 @@ var brintonJson =
        "coordinates":  [ -93.053759,41.699693 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/2/1905"
     }
   },
@@ -4596,7 +4596,7 @@ var brintonJson =
        "coordinates":  [ -93.053759,41.699693 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/3/1905"
     }
   },
@@ -4607,7 +4607,7 @@ var brintonJson =
        "coordinates":  [ -93.053759,41.699693 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/4/1905"
     }
   },
@@ -4618,7 +4618,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Colonial Theatre",
+    "NAME":"Colonial Theatre",
     "time":"10/5/1905"
     }
   },
@@ -4629,7 +4629,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Colonial Theatre",
+    "NAME":"Colonial Theatre",
     "time":"10/6/1905"
     }
   },
@@ -4640,7 +4640,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Colonial Theatre",
+    "NAME":"Colonial Theatre",
     "time":"10/7/1905"
     }
   },
@@ -4651,7 +4651,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/8/1905"
     }
   },
@@ -4662,7 +4662,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre",
+    "NAME":"Odeon Theatre",
     "time":"10/9/1905"
     }
   },
@@ -4673,7 +4673,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre",
+    "NAME":"Odeon Theatre",
     "time":"10/10/1905"
     }
   },
@@ -4684,7 +4684,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre",
+    "NAME":"Odeon Theatre",
     "time":"10/11/1905"
     }
   },
@@ -4695,7 +4695,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Hall",
+    "NAME":"Armory Hall",
     "time":"10/12/1905"
     }
   },
@@ -4706,7 +4706,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Hall",
+    "NAME":"Armory Hall",
     "time":"10/13/1905"
     }
   },
@@ -4717,7 +4717,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Hall",
+    "NAME":"Armory Hall",
     "time":"10/14/1905"
     }
   },
@@ -4728,7 +4728,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/15/1905"
     }
   },
@@ -4739,7 +4739,7 @@ var brintonJson =
        "coordinates":  [ -94.846096,42.581367 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/16/1905"
     }
   },
@@ -4750,7 +4750,7 @@ var brintonJson =
        "coordinates":  [ -94.846096,42.581367 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/17/1905"
     }
   },
@@ -4761,7 +4761,7 @@ var brintonJson =
        "coordinates":  [ -94.846096,42.581367 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/18/1905"
     }
   },
@@ -4772,7 +4772,7 @@ var brintonJson =
        "coordinates":  [ -95.471667,42.344987 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/19/1905"
     }
   },
@@ -4783,7 +4783,7 @@ var brintonJson =
        "coordinates":  [ -95.471667,42.344987 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/20/1905"
     }
   },
@@ -4794,7 +4794,7 @@ var brintonJson =
        "coordinates":  [ -95.471667,42.344987 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/21/1905"
     }
   },
@@ -4805,7 +4805,7 @@ var brintonJson =
        "coordinates":  [ -95.471667,42.344987 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/22/1905"
     }
   },
@@ -4816,7 +4816,7 @@ var brintonJson =
        "coordinates":  [ -94.989711,42.422203 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/23/1905"
     }
   },
@@ -4827,7 +4827,7 @@ var brintonJson =
        "coordinates":  [ -94.989711,42.422203 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/24/1905"
     }
   },
@@ -4838,7 +4838,7 @@ var brintonJson =
        "coordinates":  [ -94.989711,42.422203 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/25/1905"
     }
   },
@@ -4849,7 +4849,7 @@ var brintonJson =
        "coordinates":  [ -95.25055,42.312207 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/26/1905"
     }
   },
@@ -4860,7 +4860,7 @@ var brintonJson =
        "coordinates":  [ -95.25055,42.312207 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/27/1905"
     }
   },
@@ -4871,7 +4871,7 @@ var brintonJson =
        "coordinates":  [ -95.25055,42.312207 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/28/1905"
     }
   },
@@ -4882,7 +4882,7 @@ var brintonJson =
        "coordinates":  [ -95.25055,42.312207 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/29/1905"
     }
   },
@@ -4893,7 +4893,7 @@ var brintonJson =
        "coordinates":  [ -95.209718,42.641092 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/30/1905"
     }
   },
@@ -4904,7 +4904,7 @@ var brintonJson =
        "coordinates":  [ -95.209718,42.641092 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/31/1905"
     }
   },
@@ -4915,7 +4915,7 @@ var brintonJson =
        "coordinates":  [ -95.209718,42.641092 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/1/1905"
     }
   },
@@ -4926,7 +4926,7 @@ var brintonJson =
        "coordinates":  [ -95.355276,42.017766 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/2/1905"
     }
   },
@@ -4937,7 +4937,7 @@ var brintonJson =
        "coordinates":  [ -95.355276,42.017766 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/3/1905"
     }
   },
@@ -4948,7 +4948,7 @@ var brintonJson =
        "coordinates":  [ -95.355276,42.017766 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/4/1905"
     }
   },
@@ -4959,7 +4959,7 @@ var brintonJson =
        "coordinates":  [ -95.355276,42.017766 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/5/1905"
     }
   },
@@ -4970,7 +4970,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/6/1905"
     }
   },
@@ -4981,7 +4981,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/7/1905"
     }
   },
@@ -4992,7 +4992,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/8/1905"
     }
   },
@@ -5003,7 +5003,7 @@ var brintonJson =
        "coordinates":  [ -95.600559,41.854433 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/9/1905"
     }
   },
@@ -5014,7 +5014,7 @@ var brintonJson =
        "coordinates":  [ -95.600559,41.854433 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/10/1905"
     }
   },
@@ -5025,7 +5025,7 @@ var brintonJson =
        "coordinates":  [ -95.600559,41.854433 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/11/1905"
     }
   },
@@ -5036,7 +5036,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"Temple Grand Theatre",
+    "NAME":"Temple Grand Theatre",
     "time":"11/13/1905"
     }
   },
@@ -5047,7 +5047,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"Temple Grand Theatre",
+    "NAME":"Temple Grand Theatre",
     "time":"11/14/1905"
     }
   },
@@ -5058,7 +5058,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"Temple Grand Theatre",
+    "NAME":"Temple Grand Theatre",
     "time":"11/15/1905"
     }
   },
@@ -5069,7 +5069,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/16/1905"
     }
   },
@@ -5080,7 +5080,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/17/1905"
     }
   },
@@ -5091,7 +5091,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/18/1905"
     }
   },
@@ -5102,7 +5102,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"McComb Opera House",
+    "NAME":"McComb Opera House",
     "time":"11/20/1905"
     }
   },
@@ -5113,7 +5113,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"McComb Opera House",
+    "NAME":"McComb Opera House",
     "time":"11/21/1905"
     }
   },
@@ -5124,7 +5124,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"McComb Opera House",
+    "NAME":"McComb Opera House",
     "time":"11/22/1905"
     }
   },
@@ -5135,7 +5135,7 @@ var brintonJson =
        "coordinates":  [ -95.228247,41.009519 ]
     },
     "properties": {
-    "name":"[Armory Evans O.H.]",
+    "NAME":"[Armory Evans O.H.]",
     "time":"11/23/1905"
     }
   },
@@ -5146,7 +5146,7 @@ var brintonJson =
        "coordinates":  [ -95.228247,41.009519 ]
     },
     "properties": {
-    "name":"Evans Theatre",
+    "NAME":"Evans Theatre",
     "time":"11/24/1905"
     }
   },
@@ -5157,7 +5157,7 @@ var brintonJson =
        "coordinates":  [ -95.228247,41.009519 ]
     },
     "properties": {
-    "name":"Evans Theatre",
+    "NAME":"Evans Theatre",
     "time":"11/25/1905"
     }
   },
@@ -5168,7 +5168,7 @@ var brintonJson =
        "coordinates":  [ -95.228247,41.009519 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/26/1905"
     }
   },
@@ -5179,7 +5179,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"McComb Opera House",
+    "NAME":"McComb Opera House",
     "time":"11/27/1905"
     }
   },
@@ -5190,7 +5190,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"Overland Theatre",
+    "NAME":"Overland Theatre",
     "time":"11/28/1905"
     }
   },
@@ -5201,7 +5201,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"Overland Theatre",
+    "NAME":"Overland Theatre",
     "time":"11/29/1905"
     }
   },
@@ -5212,7 +5212,7 @@ var brintonJson =
        "coordinates":  [ -96.194995,40.367405 ]
     },
     "properties": {
-    "name":"Hahn Opera House",
+    "NAME":"Hahn Opera House",
     "time":"11/30/1905"
     }
   },
@@ -5223,7 +5223,7 @@ var brintonJson =
        "coordinates":  [ -96.194995,40.367405 ]
     },
     "properties": {
-    "name":"Hahn Opera House",
+    "NAME":"Hahn Opera House",
     "time":"12/1/1905"
     }
   },
@@ -5234,7 +5234,7 @@ var brintonJson =
        "coordinates":  [ -96.194995,40.367405 ]
     },
     "properties": {
-    "name":"Hahn Opera House",
+    "NAME":"Hahn Opera House",
     "time":"12/2/1905"
     }
   },
@@ -5245,7 +5245,7 @@ var brintonJson =
        "coordinates":  [ -96.194995,40.367405 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/3/1905"
     }
   },
@@ -5256,7 +5256,7 @@ var brintonJson =
        "coordinates":  [ -96.662523,40.122224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/4/1905"
     }
   },
@@ -5267,7 +5267,7 @@ var brintonJson =
        "coordinates":  [ -96.662523,40.122224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/5/1905"
     }
   },
@@ -5278,7 +5278,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Steele's Opera House",
+    "NAME":"Steele's Opera House",
     "time":"12/6/1905"
     }
   },
@@ -5289,7 +5289,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Steele's Opera House",
+    "NAME":"Steele's Opera House",
     "time":"12/7/1905"
     }
   },
@@ -5300,7 +5300,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Steele's Opera House",
+    "NAME":"Steele's Opera House",
     "time":"12/8/1905"
     }
   },
@@ -5311,7 +5311,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/9/1905"
     }
   },
@@ -5322,7 +5322,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/10/1905"
     }
   },
@@ -5333,7 +5333,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/11/1905"
     }
   },
@@ -5344,7 +5344,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/12/1905"
     }
   },
@@ -5355,7 +5355,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/13/1905"
     }
   },
@@ -5366,7 +5366,7 @@ var brintonJson =
        "coordinates":  [ -97.971432,40.372232 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/14/1905"
     }
   },
@@ -5377,7 +5377,7 @@ var brintonJson =
        "coordinates":  [ -97.971432,40.372232 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/15/1905"
     }
   },
@@ -5388,7 +5388,7 @@ var brintonJson =
        "coordinates":  [ -97.971432,40.372232 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/16/1905"
     }
   },
@@ -5399,7 +5399,7 @@ var brintonJson =
        "coordinates":  [ -97.971432,40.372232 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/17/1905"
     }
   },
@@ -5410,7 +5410,7 @@ var brintonJson =
        "coordinates":  [ -98.105881,40.431678 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/18/1905"
     }
   },
@@ -5421,7 +5421,7 @@ var brintonJson =
        "coordinates":  [ -98.105881,40.431678 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/19/1905"
     }
   },
@@ -5432,7 +5432,7 @@ var brintonJson =
        "coordinates":  [ -98.105881,40.431678 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/20/1905"
     }
   },
@@ -5443,7 +5443,7 @@ var brintonJson =
        "coordinates":  [ -96.960259,40.481516 ]
     },
     "properties": {
-    "name":"New Opera House",
+    "NAME":"New Opera House",
     "time":"12/21/1905"
     }
   },
@@ -5454,7 +5454,7 @@ var brintonJson =
        "coordinates":  [ -96.960259,40.481516 ]
     },
     "properties": {
-    "name":"New Opera House",
+    "NAME":"New Opera House",
     "time":"12/22/1905"
     }
   },
@@ -5465,7 +5465,7 @@ var brintonJson =
        "coordinates":  [ -96.960259,40.481516 ]
     },
     "properties": {
-    "name":"New Opera House",
+    "NAME":"New Opera House",
     "time":"12/23/1905"
     }
   },
@@ -5476,7 +5476,7 @@ var brintonJson =
        "coordinates":  [ -95.800823,39.902222 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/25/1905"
     }
   },
@@ -5487,7 +5487,7 @@ var brintonJson =
        "coordinates":  [ -95.800823,39.902222 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/26/1905"
     }
   },
@@ -5498,7 +5498,7 @@ var brintonJson =
        "coordinates":  [ -95.800823,39.902222 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/27/1905"
     }
   },
@@ -5509,7 +5509,7 @@ var brintonJson =
        "coordinates":  [ -96.662523,40.122224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/28/1905"
     }
   },
@@ -5520,7 +5520,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/29/1905"
     }
   },
@@ -5531,7 +5531,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/30/1905"
     }
   },
@@ -5542,7 +5542,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/31/1905"
     }
   },
@@ -5553,7 +5553,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"Paddock Opera House",
+    "NAME":"Paddock Opera House",
     "time":"1/1/1906"
     }
   },
@@ -5564,7 +5564,7 @@ var brintonJson =
        "coordinates":  [ -95.23595,38.971938 ]
     },
     "properties": {
-    "name":"Bowersock  Opera House",
+    "NAME":"Bowersock  Opera House",
     "time":"1/2/1906"
     }
   },
@@ -5575,7 +5575,7 @@ var brintonJson =
        "coordinates":  [ -95.23595,38.971938 ]
     },
     "properties": {
-    "name":"Bowersock  Opera House",
+    "NAME":"Bowersock  Opera House",
     "time":"1/3/1906"
     }
   },
@@ -5586,7 +5586,7 @@ var brintonJson =
        "coordinates":  [ -95.23595,38.971938 ]
     },
     "properties": {
-    "name":"Bowersock  Opera House",
+    "NAME":"Bowersock  Opera House",
     "time":"1/4/1906"
     }
   },
@@ -5597,7 +5597,7 @@ var brintonJson =
        "coordinates":  [ -94.950823,38.497032 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/5/1906"
     }
   },
@@ -5608,7 +5608,7 @@ var brintonJson =
        "coordinates":  [ -94.950823,38.497032 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/6/1906"
     }
   },
@@ -5619,7 +5619,7 @@ var brintonJson =
        "coordinates":  [ -94.950823,38.497032 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/7/1906"
     }
   },
@@ -5630,7 +5630,7 @@ var brintonJson =
        "coordinates":  [ -94.950823,38.497032 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/8/1906"
     }
   },
@@ -5641,7 +5641,7 @@ var brintonJson =
        "coordinates":  [ -95.684429,38.61001 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/9/1906"
     }
   },
@@ -5652,7 +5652,7 @@ var brintonJson =
        "coordinates":  [ -95.684429,38.61001 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/10/1906"
     }
   },
@@ -5663,7 +5663,7 @@ var brintonJson =
        "coordinates":  [ -95.825821,38.633898 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/11/1906"
     }
   },
@@ -5674,7 +5674,7 @@ var brintonJson =
        "coordinates":  [ -95.825821,38.633898 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/12/1906"
     }
   },
@@ -5685,7 +5685,7 @@ var brintonJson =
        "coordinates":  [ -95.825821,38.633898 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/13/1906"
     }
   },
@@ -5696,7 +5696,7 @@ var brintonJson =
        "coordinates":  [ -95.825821,38.633898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/14/1906"
     }
   },
@@ -5707,7 +5707,7 @@ var brintonJson =
        "coordinates":  [ -95.742764,38.194467 ]
     },
     "properties": {
-    "name":"Midland Theatre",
+    "NAME":"Midland Theatre",
     "time":"1/15/1906"
     }
   },
@@ -5718,7 +5718,7 @@ var brintonJson =
        "coordinates":  [ -95.742764,38.194467 ]
     },
     "properties": {
-    "name":"Midland Theatre",
+    "NAME":"Midland Theatre",
     "time":"1/16/1906"
     }
   },
@@ -5729,7 +5729,7 @@ var brintonJson =
        "coordinates":  [ -95.742764,38.194467 ]
     },
     "properties": {
-    "name":"Midland Theatre",
+    "NAME":"Midland Theatre",
     "time":"1/17/1906"
     }
   },
@@ -5740,7 +5740,7 @@ var brintonJson =
        "coordinates":  [ -95.733317,37.881147 ]
     },
     "properties": {
-    "name":"Apollo Opera House",
+    "NAME":"Apollo Opera House",
     "time":"1/18/1906"
     }
   },
@@ -5751,7 +5751,7 @@ var brintonJson =
        "coordinates":  [ -95.733317,37.881147 ]
     },
     "properties": {
-    "name":"Apollo Opera House",
+    "NAME":"Apollo Opera House",
     "time":"1/19/1906"
     }
   },
@@ -5762,7 +5762,7 @@ var brintonJson =
        "coordinates":  [ -95.733317,37.881147 ]
     },
     "properties": {
-    "name":"Apollo Opera House",
+    "NAME":"Apollo Opera House",
     "time":"1/20/1906"
     }
   },
@@ -5773,7 +5773,7 @@ var brintonJson =
        "coordinates":  [ -95.733317,37.881147 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/21/1906"
     }
   },
@@ -5784,7 +5784,7 @@ var brintonJson =
        "coordinates":  [ -94.838021,37.51116 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/22/1906"
     }
   },
@@ -5795,7 +5795,7 @@ var brintonJson =
        "coordinates":  [ -94.838021,37.51116 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/23/1906"
     }
   },
@@ -5806,7 +5806,7 @@ var brintonJson =
        "coordinates":  [ -94.838021,37.51116 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/24/1906"
     }
   },
@@ -5817,7 +5817,7 @@ var brintonJson =
        "coordinates":  [ -94.838021,37.51116 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/25/1906"
     }
   },
@@ -5828,7 +5828,7 @@ var brintonJson =
        "coordinates":  [ -95.457203,37.679214 ]
     },
     "properties": {
-    "name":"Williams Opera House",
+    "NAME":"Williams Opera House",
     "time":"1/26/1906"
     }
   },
@@ -5839,7 +5839,7 @@ var brintonJson =
        "coordinates":  [ -95.457203,37.679214 ]
     },
     "properties": {
-    "name":"Williams Opera House",
+    "NAME":"Williams Opera House",
     "time":"1/27/1906"
     }
   },
@@ -5850,7 +5850,7 @@ var brintonJson =
        "coordinates":  [ -95.457203,37.679214 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/28/1906"
     }
   },
@@ -5861,7 +5861,7 @@ var brintonJson =
        "coordinates":  [ -95.457203,37.679214 ]
     },
     "properties": {
-    "name":"Williams Opera House",
+    "NAME":"Williams Opera House",
     "time":"1/29/1906"
     }
   },
@@ -5872,7 +5872,7 @@ var brintonJson =
        "coordinates":  [ -96.995592,37.239749 ]
     },
     "properties": {
-    "name":"Grand Opera House",
+    "NAME":"Grand Opera House",
     "time":"1/30/1906"
     }
   },
@@ -5883,7 +5883,7 @@ var brintonJson =
        "coordinates":  [ -96.995592,37.239749 ]
     },
     "properties": {
-    "name":"Grand Opera House",
+    "NAME":"Grand Opera House",
     "time":"1/31/1906"
     }
   },
@@ -5894,7 +5894,7 @@ var brintonJson =
        "coordinates":  [ -96.995592,37.239749 ]
     },
     "properties": {
-    "name":"Grand Opera House",
+    "NAME":"Grand Opera House",
     "time":"2/1/1906"
     }
   },
@@ -5905,7 +5905,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"5th Ave Theatre",
+    "NAME":"5th Ave Theatre",
     "time":"2/2/1906"
     }
   },
@@ -5916,7 +5916,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"5th Ave Theatre",
+    "NAME":"5th Ave Theatre",
     "time":"2/3/1906"
     }
   },
@@ -5927,7 +5927,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/4/1906"
     }
   },
@@ -5938,7 +5938,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"5th Ave Theatre",
+    "NAME":"5th Ave Theatre",
     "time":"2/5/1906"
     }
   },
@@ -5949,7 +5949,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"Baud Aud.",
+    "NAME":"Baud Aud.",
     "time":"2/6/1906"
     }
   },
@@ -5960,7 +5960,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"Baud Aud.",
+    "NAME":"Baud Aud.",
     "time":"2/7/1906"
     }
   },
@@ -5971,7 +5971,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"Baud Aud.",
+    "NAME":"Baud Aud.",
     "time":"2/8/1906"
     }
   },
@@ -5982,7 +5982,7 @@ var brintonJson =
        "coordinates":  [ -95.935258,37.011461 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/9/1906"
     }
   },
@@ -5993,7 +5993,7 @@ var brintonJson =
        "coordinates":  [ -95.935258,37.011461 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/10/1906"
     }
   },
@@ -6004,7 +6004,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/11/1906"
     }
   },
@@ -6015,7 +6015,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/12/1906"
     }
   },
@@ -6026,7 +6026,7 @@ var brintonJson =
        "coordinates":  [ -94.639671,37.075895 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/13/1906"
     }
   },
@@ -6037,7 +6037,7 @@ var brintonJson =
        "coordinates":  [ -94.639671,37.075895 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/14/1906"
     }
   },
@@ -6048,7 +6048,7 @@ var brintonJson =
        "coordinates":  [ -94.639671,37.075895 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/15/1906"
     }
   },
@@ -6059,7 +6059,7 @@ var brintonJson =
        "coordinates":  [ -94.876111,36.883611 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/16/1906"
     }
   },
@@ -6070,7 +6070,7 @@ var brintonJson =
        "coordinates":  [ -94.876111,36.883611 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/17/1906"
     }
   },
@@ -6081,7 +6081,7 @@ var brintonJson =
        "coordinates":  [ -94.876111,36.883611 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/18/1906"
     }
   },
@@ -6092,7 +6092,7 @@ var brintonJson =
        "coordinates":  [ -94.876111,36.883611 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/19/1906"
     }
   },
@@ -6103,7 +6103,7 @@ var brintonJson =
        "coordinates":  [ -95.612778,36.315278 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/20/1906"
     }
   },
@@ -6114,7 +6114,7 @@ var brintonJson =
        "coordinates":  [ -95.612778,36.315278 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/21/1906"
     }
   },
@@ -6125,7 +6125,7 @@ var brintonJson =
        "coordinates":  [ -95.612778,36.315278 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/22/1906"
     }
   },
@@ -6136,7 +6136,7 @@ var brintonJson =
        "coordinates":  [ -95.431389,36.535556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/23/1906"
     }
   },
@@ -6147,7 +6147,7 @@ var brintonJson =
        "coordinates":  [ -95.431389,36.535556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/24/1906"
     }
   },
@@ -6158,7 +6158,7 @@ var brintonJson =
        "coordinates":  [ -95.156667,36.641111 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/26/1906"
     }
   },
@@ -6169,7 +6169,7 @@ var brintonJson =
        "coordinates":  [ -95.156667,36.641111 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/27/1906"
     }
   },
@@ -6180,7 +6180,7 @@ var brintonJson =
        "coordinates":  [ -95.156667,36.641111 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/28/1906"
     }
   },
@@ -6191,7 +6191,7 @@ var brintonJson =
        "coordinates":  [ -95.552479,37.270344 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/1/1906"
     }
   },
@@ -6202,7 +6202,7 @@ var brintonJson =
        "coordinates":  [ -95.552479,37.270344 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/2/1906"
     }
   },
@@ -6213,7 +6213,7 @@ var brintonJson =
        "coordinates":  [ -95.552479,37.270344 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/3/1906"
     }
   },
@@ -6224,7 +6224,7 @@ var brintonJson =
        "coordinates":  [ -95.552479,37.270344 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/4/1906"
     }
   },
@@ -6235,7 +6235,7 @@ var brintonJson =
        "coordinates":  [ -95.626389,37.0373 ]
     },
     "properties": {
-    "name":"Aud. Theatre",
+    "NAME":"Aud. Theatre",
     "time":"3/5/1906"
     }
   },
@@ -6246,7 +6246,7 @@ var brintonJson =
        "coordinates":  [ -95.626389,37.0373 ]
     },
     "properties": {
-    "name":"Aud. Theatre",
+    "NAME":"Aud. Theatre",
     "time":"3/6/1906"
     }
   },
@@ -6257,7 +6257,7 @@ var brintonJson =
        "coordinates":  [ -95.626389,37.0373 ]
     },
     "properties": {
-    "name":"Aud. Theatre",
+    "NAME":"Aud. Theatre",
     "time":"3/7/1906"
     }
   },
@@ -6268,7 +6268,7 @@ var brintonJson =
        "coordinates":  [ -96.186936,37.12672 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/8/1906"
     }
   },
@@ -6279,7 +6279,7 @@ var brintonJson =
        "coordinates":  [ -96.186936,37.12672 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/9/1906"
     }
   },
@@ -6290,7 +6290,7 @@ var brintonJson =
        "coordinates":  [ -96.186936,37.12672 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/10/1906"
     }
   },
@@ -6301,7 +6301,7 @@ var brintonJson =
        "coordinates":  [ -97.399939,37.267508 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/12/1906"
     }
   },
@@ -6312,7 +6312,7 @@ var brintonJson =
        "coordinates":  [ -97.399939,37.267508 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/13/1906"
     }
   },
@@ -6323,7 +6323,7 @@ var brintonJson =
        "coordinates":  [ -97.399939,37.267508 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/14/1906"
     }
   },
@@ -6334,7 +6334,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/15/1906"
     }
   },
@@ -6345,7 +6345,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"Home Theatre",
+    "NAME":"Home Theatre",
     "time":"3/16/1906"
     }
   },
@@ -6356,7 +6356,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/17/1906"
     }
   },
@@ -6367,7 +6367,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/17/1906"
     }
   },
@@ -6378,7 +6378,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/18/1906"
     }
   },
@@ -6389,7 +6389,7 @@ var brintonJson =
        "coordinates":  [ -97.344724,38.046917 ]
     },
     "properties": {
-    "name":"Ragsdale Opera House",
+    "NAME":"Ragsdale Opera House",
     "time":"3/19/1906"
     }
   },
@@ -6400,7 +6400,7 @@ var brintonJson =
        "coordinates":  [ -97.344724,38.046917 ]
     },
     "properties": {
-    "name":"Ragsdale Opera House",
+    "NAME":"Ragsdale Opera House",
     "time":"3/20/1906"
     }
   },
@@ -6411,7 +6411,7 @@ var brintonJson =
        "coordinates":  [ -97.344724,38.046917 ]
     },
     "properties": {
-    "name":"Ragsdale Opera House",
+    "NAME":"Ragsdale Opera House",
     "time":"3/21/1906"
     }
   },
@@ -6422,7 +6422,7 @@ var brintonJson =
        "coordinates":  [ -98.201727,38.34501 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/22/1906"
     }
   },
@@ -6433,7 +6433,7 @@ var brintonJson =
        "coordinates":  [ -98.201727,38.34501 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/23/1906"
     }
   },
@@ -6444,7 +6444,7 @@ var brintonJson =
        "coordinates":  [ -98.201727,38.34501 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/24/1906"
     }
   },
@@ -6455,7 +6455,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/26/1906"
     }
   },
@@ -6466,7 +6466,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/27/1906"
     }
   },
@@ -6477,7 +6477,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/28/1906"
     }
   },
@@ -6488,7 +6488,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/29/1906"
     }
   },
@@ -6499,7 +6499,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/30/1906"
     }
   },
@@ -6510,7 +6510,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Wareham Opera House",
+    "NAME":"Wareham Opera House",
     "time":"3/31/1906"
     }
   },
@@ -6521,7 +6521,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/1/1906"
     }
   },
@@ -6532,7 +6532,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Grand Theatre",
+    "NAME":"Grand Theatre",
     "time":"4/2/1906"
     }
   },
@@ -6543,7 +6543,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/3/1906"
     }
   },
@@ -6554,7 +6554,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/4/1906"
     }
   },
@@ -6565,7 +6565,7 @@ var brintonJson =
        "coordinates":  [ -95.526369,39.660557 ]
     },
     "properties": {
-    "name":"High Street Theatre",
+    "NAME":"High Street Theatre",
     "time":"4/5/1906"
     }
   },
@@ -6576,7 +6576,7 @@ var brintonJson =
        "coordinates":  [ -95.526369,39.660557 ]
     },
     "properties": {
-    "name":"High Street Theatre",
+    "NAME":"High Street Theatre",
     "time":"4/6/1906"
     }
   },
@@ -6587,7 +6587,7 @@ var brintonJson =
        "coordinates":  [ -95.526369,39.660557 ]
     },
     "properties": {
-    "name":"High Street Theatre",
+    "NAME":"High Street Theatre",
     "time":"4/7/1906"
     }
   },
@@ -6598,7 +6598,7 @@ var brintonJson =
        "coordinates":  [ -94.456933,39.575593 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/9/1906"
     }
   },
@@ -6609,7 +6609,7 @@ var brintonJson =
        "coordinates":  [ -94.456933,39.575593 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/10/1906"
     }
   },
@@ -6620,7 +6620,7 @@ var brintonJson =
        "coordinates":  [ -94.456933,39.575593 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/11/1906"
     }
   },
@@ -6631,7 +6631,7 @@ var brintonJson =
        "coordinates":  [ -93.998889,39.743889 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/12/1906"
     }
   },
@@ -6642,7 +6642,7 @@ var brintonJson =
        "coordinates":  [ -93.998889,39.743889 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/13/1906"
     }
   },
@@ -6653,7 +6653,7 @@ var brintonJson =
        "coordinates":  [ -93.998889,39.743889 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/14/1906"
     }
   },
@@ -6664,7 +6664,7 @@ var brintonJson =
        "coordinates":  [ -93.998889,39.743889 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/15/1906"
     }
   },
@@ -6675,7 +6675,7 @@ var brintonJson =
        "coordinates":  [ -93.552436,39.795295 ]
     },
     "properties": {
-    "name":"Luella Grand Theatre",
+    "NAME":"Luella Grand Theatre",
     "time":"4/16/1906"
     }
   },
@@ -6686,7 +6686,7 @@ var brintonJson =
        "coordinates":  [ -93.552436,39.795295 ]
     },
     "properties": {
-    "name":"Luella Grand Theatre",
+    "NAME":"Luella Grand Theatre",
     "time":"4/17/1906"
     }
   },
@@ -6697,7 +6697,7 @@ var brintonJson =
        "coordinates":  [ -93.552436,39.795295 ]
     },
     "properties": {
-    "name":"Luella Grand Theatre",
+    "NAME":"Luella Grand Theatre",
     "time":"4/18/1906"
     }
   },
@@ -6708,7 +6708,7 @@ var brintonJson =
        "coordinates":  [ -93.616607,40.078902 ]
     },
     "properties": {
-    "name":"Hubbell Theatre",
+    "NAME":"Hubbell Theatre",
     "time":"4/19/1906"
     }
   },
@@ -6719,7 +6719,7 @@ var brintonJson =
        "coordinates":  [ -93.616607,40.078902 ]
     },
     "properties": {
-    "name":"Hubbell Theatre",
+    "NAME":"Hubbell Theatre",
     "time":"4/20/1906"
     }
   },
@@ -6730,7 +6730,7 @@ var brintonJson =
        "coordinates":  [ -93.616607,40.078902 ]
     },
     "properties": {
-    "name":"Hubbell Theatre",
+    "NAME":"Hubbell Theatre",
     "time":"4/21/1906"
     }
   },
@@ -6741,7 +6741,7 @@ var brintonJson =
        "coordinates":  [ -93.616607,40.078902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/22/1906"
     }
   },
@@ -6752,7 +6752,7 @@ var brintonJson =
        "coordinates":  [ -93.580499,40.400843 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/23/1906"
     }
   },
@@ -6763,7 +6763,7 @@ var brintonJson =
        "coordinates":  [ -93.580499,40.400843 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/24/1906"
     }
   },
@@ -6774,7 +6774,7 @@ var brintonJson =
        "coordinates":  [ -93.580499,40.400843 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/25/1906"
     }
   },
@@ -6785,7 +6785,7 @@ var brintonJson =
        "coordinates":  [ -92.874088,40.73418 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/26/1906"
     }
   },
@@ -6796,7 +6796,7 @@ var brintonJson =
        "coordinates":  [ -92.874088,40.73418 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/27/1906"
     }
   },
@@ -6807,7 +6807,7 @@ var brintonJson =
        "coordinates":  [ -92.874088,40.73418 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/28/1906"
     }
   },
@@ -6818,7 +6818,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"4/30/1906"
     }
   },
@@ -6829,7 +6829,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/1/1906"
     }
   },
@@ -6840,7 +6840,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/2/1906"
     }
   },
@@ -6851,7 +6851,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/3/1906"
     }
   },
@@ -6862,7 +6862,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/4/1906"
     }
   },
@@ -6873,7 +6873,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/5/1906"
     }
   },
@@ -6884,7 +6884,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/6/1906"
     }
   },
@@ -6895,7 +6895,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/7/1906"
     }
   },
@@ -6906,7 +6906,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/8/1906"
     }
   },
@@ -6917,7 +6917,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/9/1906"
     }
   },
@@ -6928,7 +6928,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/10/1906"
     }
   },
@@ -6939,7 +6939,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/11/1906"
     }
   },
@@ -6950,7 +6950,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/12/1906"
     }
   },
@@ -6961,7 +6961,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/13/1906"
     }
   },
@@ -6972,7 +6972,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/14/1906"
     }
   },
@@ -6983,7 +6983,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/15/1906"
     }
   },
@@ -6994,7 +6994,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/18/1906"
     }
   },
@@ -7005,7 +7005,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/19/1906"
     }
   },
@@ -7016,7 +7016,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/20/1906"
     }
   },
@@ -7027,7 +7027,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/21/1906"
     }
   },
@@ -7038,7 +7038,7 @@ var brintonJson =
        "coordinates":  [ -93.222146,42.833581 ]
     },
     "properties": {
-    "name":"Visiting Opera House",
+    "NAME":"Visiting Opera House",
     "time":"5/22/1906"
     }
   },
@@ -7049,7 +7049,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theatre",
+    "NAME":"Broadway Theatre",
     "time":"5/23/1906"
     }
   },
@@ -7060,7 +7060,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace M.H [Movie House]",
+    "NAME":"Palace M.H [Movie House]",
     "time":"5/24/1906"
     }
   },
@@ -7071,7 +7071,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"[Med.] Opera House",
+    "NAME":"[Med.] Opera House",
     "time":"5/25/1906"
     }
   },
@@ -7082,7 +7082,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/26/1906"
     }
   },
@@ -7093,7 +7093,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/27/1906"
     }
   },
@@ -7104,7 +7104,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/28/1906"
     }
   },
@@ -7115,7 +7115,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/29/1906"
     }
   },
@@ -7126,7 +7126,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/30/1906"
     }
   },
@@ -7137,7 +7137,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/31/1906"
     }
   },
@@ -7148,7 +7148,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/1/1906"
     }
   },
@@ -7159,7 +7159,7 @@ var brintonJson =
        "coordinates":  [ -91.913504,42.673317 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/2/1906"
     }
   },
@@ -7170,7 +7170,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/4/1906"
     }
   },
@@ -7181,7 +7181,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/5/1906"
     }
   },
@@ -7192,7 +7192,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/6/1906"
     }
   },
@@ -7203,7 +7203,7 @@ var brintonJson =
        "coordinates":  [ -91.285159,42.108337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/7/1906"
     }
   },
@@ -7214,7 +7214,7 @@ var brintonJson =
        "coordinates":  [ -91.263769,41.570023 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/8/1906"
     }
   },
@@ -7225,7 +7225,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/9/1906"
     }
   },
@@ -7236,7 +7236,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/10/1906"
     }
   },
@@ -7247,7 +7247,7 @@ var brintonJson =
        "coordinates":  [ -91.706002,41.483072 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/11/1906"
     }
   },
@@ -7258,7 +7258,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/12/1906"
     }
   },
@@ -7269,7 +7269,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/13/1906"
     }
   },
@@ -7280,7 +7280,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/14/1906"
     }
   },
@@ -7291,7 +7291,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/15/1906"
     }
   },
@@ -7302,7 +7302,7 @@ var brintonJson =
        "coordinates":  [ -89.547324,40.372542 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/17/1906"
     }
   },
@@ -7313,7 +7313,7 @@ var brintonJson =
        "coordinates":  [ -89.547324,40.372542 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/18/1906"
     }
   },
@@ -7324,7 +7324,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/19/1906"
     }
   },
@@ -7335,7 +7335,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/20/1906"
     }
   },
@@ -7346,7 +7346,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/21/1906"
     }
   },
@@ -7357,7 +7357,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/22/1906"
     }
   },
@@ -7368,7 +7368,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/23/1906"
     }
   },
@@ -7379,7 +7379,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/23/1906"
     }
   },
@@ -7390,7 +7390,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/24/1906"
     }
   },
@@ -7401,7 +7401,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/25/1906"
     }
   },
@@ -7412,7 +7412,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/26/1906"
     }
   },
@@ -7423,7 +7423,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/27/1906"
     }
   },
@@ -7434,7 +7434,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/29/1906"
     }
   },
@@ -7445,7 +7445,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/30/1906"
     }
   },
@@ -7456,7 +7456,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/1/1906"
     }
   },
@@ -7467,7 +7467,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/2/1906"
     }
   },
@@ -7478,7 +7478,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/3/1906"
     }
   },
@@ -7489,7 +7489,7 @@ var brintonJson =
        "coordinates":  [ -92.308794,41.172513 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/4/1906"
     }
   },
@@ -7500,7 +7500,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/6/1906"
     }
   },
@@ -7511,7 +7511,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/7/1906"
     }
   },
@@ -7522,7 +7522,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/8/1906"
     }
   },
@@ -7533,7 +7533,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/9/1906"
     }
   },
@@ -7544,7 +7544,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/10/1906"
     }
   },
@@ -7555,7 +7555,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/11/1906"
     }
   },
@@ -7566,7 +7566,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/12/1906"
     }
   },
@@ -7577,7 +7577,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/13/1906"
     }
   },
@@ -7588,7 +7588,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/14/1906"
     }
   },
@@ -7599,7 +7599,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/15/1906"
     }
   },
@@ -7610,7 +7610,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/16/1906"
     }
   },
@@ -7621,7 +7621,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/17/1906"
     }
   },
@@ -7632,7 +7632,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/18/1906"
     }
   },
@@ -7643,7 +7643,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/19/1906"
     }
   },
@@ -7654,7 +7654,7 @@ var brintonJson =
        "coordinates":  [ -91.552384,41.28891 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"7/20/1906"
     }
   },
@@ -7665,7 +7665,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"7/21/1906"
     }
   },
@@ -7676,7 +7676,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/22/1906"
     }
   },
@@ -7687,7 +7687,7 @@ var brintonJson =
        "coordinates":  [ -91.441268,41.123083 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/23/1906"
     }
   },
@@ -7698,7 +7698,7 @@ var brintonJson =
        "coordinates":  [ -91.441268,41.123083 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/24/1906"
     }
   },
@@ -7709,7 +7709,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/25/1906"
     }
   },
@@ -7720,7 +7720,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/26/1906"
     }
   },
@@ -7731,7 +7731,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/27/1906"
     }
   },
@@ -7742,7 +7742,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/28/1906"
     }
   },
@@ -7753,7 +7753,7 @@ var brintonJson =
        "coordinates":  [ -91.558073,40.963695 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/29/1906"
     }
   },
@@ -7764,7 +7764,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/30/1906"
     }
   },
@@ -7775,7 +7775,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"7/31/1906"
     }
   },
@@ -7786,7 +7786,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/1/1906"
     }
   },
@@ -7797,7 +7797,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/2/1906"
     }
   },
@@ -7808,7 +7808,7 @@ var brintonJson =
        "coordinates":  [ -91.819615,41.174739 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/3/1906"
     }
   },
@@ -7819,7 +7819,7 @@ var brintonJson =
        "coordinates":  [ -93.31227,41.921673 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/4/1906"
     }
   },
@@ -7830,7 +7830,7 @@ var brintonJson =
        "coordinates":  [ -93.31227,41.921673 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/5/1906"
     }
   },
@@ -7841,7 +7841,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/6/1906"
     }
   },
@@ -7852,7 +7852,7 @@ var brintonJson =
        "coordinates":  [ -92.093089,41.198372 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/7/1906"
     }
   },
@@ -7863,7 +7863,7 @@ var brintonJson =
        "coordinates":  [ -92.251849,41.178903 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/8/1906"
     }
   },
@@ -7874,7 +7874,7 @@ var brintonJson =
        "coordinates":  [ -92.251849,41.178903 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/9/1906"
     }
   },
@@ -7885,7 +7885,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/10/1906"
     }
   },
@@ -7896,7 +7896,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/11/1906"
     }
   },
@@ -7907,7 +7907,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/12/1906"
     }
   },
@@ -7918,7 +7918,7 @@ var brintonJson =
        "coordinates":  [ -92.090456,41.452232 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/13/1906"
     }
   },
@@ -7929,7 +7929,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/14/1906"
     }
   },
@@ -7940,7 +7940,7 @@ var brintonJson =
        "coordinates":  [ -92.239348,41.452508 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/15/1906"
     }
   },
@@ -7951,7 +7951,7 @@ var brintonJson =
        "coordinates":  [ -92.468242,41.508337 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/16/1906"
     }
   },
@@ -7962,7 +7962,7 @@ var brintonJson =
        "coordinates":  [ -92.374907,41.580281 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/17/1906"
     }
   },
@@ -7973,7 +7973,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/18/1906"
     }
   },
@@ -7984,7 +7984,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/19/1906"
     }
   },
@@ -7995,7 +7995,7 @@ var brintonJson =
        "coordinates":  [ -92.171111,41.437778 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/20/1906"
     }
   },
@@ -8006,7 +8006,7 @@ var brintonJson =
        "coordinates":  [ -92.330184,41.322788 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/21/1906"
     }
   },
@@ -8017,7 +8017,7 @@ var brintonJson =
        "coordinates":  [ -92.051011,41.362512 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/22/1906"
     }
   },
@@ -8028,7 +8028,7 @@ var brintonJson =
        "coordinates":  [ -91.817671,41.338904 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/23/1906"
     }
   },
@@ -8039,7 +8039,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/24/1906"
     }
   },
@@ -8050,7 +8050,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/25/1906"
     }
   },
@@ -8061,7 +8061,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/26/1906"
     }
   },
@@ -8072,7 +8072,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/27/1906"
     }
   },
@@ -8083,7 +8083,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/28/1906"
     }
   },
@@ -8094,7 +8094,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"8/29/1906"
     }
   },
@@ -8105,7 +8105,7 @@ var brintonJson =
        "coordinates":  [ -92.724722,41.743611 ]
     },
     "properties": {
-    "name":"Colonial Theatre",
+    "NAME":"Colonial Theatre",
     "time":"8/30/1906"
     }
   },
@@ -8116,7 +8116,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Oden Theatre",
+    "NAME":"Oden Theatre",
     "time":"8/31/1906"
     }
   },
@@ -8127,7 +8127,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"Odeon Theatre",
+    "NAME":"Odeon Theatre",
     "time":"9/1/1906"
     }
   },
@@ -8138,7 +8138,7 @@ var brintonJson =
        "coordinates":  [ -92.912339,42.044255 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/2/1906"
     }
   },
@@ -8149,7 +8149,7 @@ var brintonJson =
        "coordinates":  [ -92.543392,42.056811 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/3/1906"
     }
   },
@@ -8160,7 +8160,7 @@ var brintonJson =
        "coordinates":  [ -92.543392,42.056811 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/4/1906"
     }
   },
@@ -8171,7 +8171,7 @@ var brintonJson =
        "coordinates":  [ -92.543392,42.056811 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/5/1906"
     }
   },
@@ -8182,7 +8182,7 @@ var brintonJson =
        "coordinates":  [ -93.617055,42.02677 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/6/1906"
     }
   },
@@ -8193,7 +8193,7 @@ var brintonJson =
        "coordinates":  [ -93.617055,42.02677 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/7/1906"
     }
   },
@@ -8204,7 +8204,7 @@ var brintonJson =
        "coordinates":  [ -93.617055,42.02677 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/8/1906"
     }
   },
@@ -8215,7 +8215,7 @@ var brintonJson =
        "coordinates":  [ -93.617055,42.02677 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/9/1906"
     }
   },
@@ -8226,7 +8226,7 @@ var brintonJson =
        "coordinates":  [ -93.578609,42.312886 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/10/1906"
     }
   },
@@ -8237,7 +8237,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"9/11/1906"
     }
   },
@@ -8248,7 +8248,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"9/12/1906"
     }
   },
@@ -8259,7 +8259,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"9/13/1906"
     }
   },
@@ -8270,7 +8270,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"9/14/1906"
     }
   },
@@ -8281,7 +8281,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/15/1906"
     }
   },
@@ -8292,7 +8292,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/16/1906"
     }
   },
@@ -8303,7 +8303,7 @@ var brintonJson =
        "coordinates":  [ -92.021343,42.166244 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/17/1906"
     }
   },
@@ -8314,7 +8314,7 @@ var brintonJson =
        "coordinates":  [ -92.277318,41.896748 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/18/1906"
     }
   },
@@ -8325,7 +8325,7 @@ var brintonJson =
        "coordinates":  [ -92.277318,41.896748 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/19/1906"
     }
   },
@@ -8336,7 +8336,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/20/1906"
     }
   },
@@ -8347,7 +8347,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/21/1906"
     }
   },
@@ -8358,7 +8358,7 @@ var brintonJson =
        "coordinates":  [ -91.670405,41.975887 ]
     },
     "properties": {
-    "name":"Greene's Opera House",
+    "NAME":"Greene's Opera House",
     "time":"9/22/1906"
     }
   },
@@ -8369,7 +8369,7 @@ var brintonJson =
        "coordinates":  [ -91.670405,41.975887 ]
     },
     "properties": {
-    "name":"Greene's Opera House",
+    "NAME":"Greene's Opera House",
     "time":"9/23/1906"
     }
   },
@@ -8380,7 +8380,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/24/1906"
     }
   },
@@ -8391,7 +8391,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/25/1906"
     }
   },
@@ -8402,7 +8402,7 @@ var brintonJson =
        "coordinates":  [ -90.633502,41.573841 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/26/1906"
     }
   },
@@ -8413,7 +8413,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/27/1906"
     }
   },
@@ -8424,7 +8424,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/28/1906"
     }
   },
@@ -8435,7 +8435,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"9/29/1906"
     }
   },
@@ -8446,7 +8446,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/30/1906"
     }
   },
@@ -8457,7 +8457,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/1/1906"
     }
   },
@@ -8468,7 +8468,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/2/1906"
     }
   },
@@ -8479,7 +8479,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/3/1906"
     }
   },
@@ -8490,7 +8490,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/4/1906"
     }
   },
@@ -8501,7 +8501,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/5/1906"
     }
   },
@@ -8512,7 +8512,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"Palace Music Hall",
+    "NAME":"Palace Music Hall",
     "time":"10/6/1906"
     }
   },
@@ -8523,7 +8523,7 @@ var brintonJson =
        "coordinates":  [ -92.97449,43.668093 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/7/1906"
     }
   },
@@ -8534,7 +8534,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/8/1906"
     }
   },
@@ -8545,7 +8545,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/9/1906"
     }
   },
@@ -8556,7 +8556,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/10/1906"
     }
   },
@@ -8567,7 +8567,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/11/1906"
     }
   },
@@ -8578,7 +8578,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/12/1906"
     }
   },
@@ -8589,7 +8589,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/13/1906"
     }
   },
@@ -8600,7 +8600,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/14/1906"
     }
   },
@@ -8611,7 +8611,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/15/1906"
     }
   },
@@ -8622,7 +8622,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/16/1906"
     }
   },
@@ -8633,7 +8633,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/17/1906"
     }
   },
@@ -8644,7 +8644,7 @@ var brintonJson =
        "coordinates":  [ -94.165795,43.767733 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/18/1906"
     }
   },
@@ -8655,7 +8655,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/19/1906"
     }
   },
@@ -8666,7 +8666,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theatre",
+    "NAME":"Broadway Theatre",
     "time":"10/20/1906"
     }
   },
@@ -8677,7 +8677,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/21/1906"
     }
   },
@@ -8688,7 +8688,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/22/1906"
     }
   },
@@ -8699,7 +8699,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/23/1906"
     }
   },
@@ -8710,7 +8710,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/24/1906"
     }
   },
@@ -8721,7 +8721,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/25/1906"
     }
   },
@@ -8732,7 +8732,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"Hildreth Opera House",
+    "NAME":"Hildreth Opera House",
     "time":"10/26/1906"
     }
   },
@@ -8743,7 +8743,7 @@ var brintonJson =
        "coordinates":  [ -92.536296,42.952754 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/27/1906"
     }
   },
@@ -8754,7 +8754,7 @@ var brintonJson =
        "coordinates":  [ -92.536296,42.952754 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/28/1906"
     }
   },
@@ -8765,7 +8765,7 @@ var brintonJson =
        "coordinates":  [ -92.536296,42.952754 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/29/1906"
     }
   },
@@ -8776,7 +8776,7 @@ var brintonJson =
        "coordinates":  [ -92.536296,42.952754 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/30/1906"
     }
   },
@@ -8787,7 +8787,7 @@ var brintonJson =
        "coordinates":  [ -93.201037,43.153573 ]
     },
     "properties": {
-    "name":"Wilson Theatre",
+    "NAME":"Wilson Theatre",
     "time":"10/31/1906"
     }
   },
@@ -8798,7 +8798,7 @@ var brintonJson =
        "coordinates":  [ -93.201037,43.153573 ]
     },
     "properties": {
-    "name":"Wilson Theatre",
+    "NAME":"Wilson Theatre",
     "time":"11/1/1906"
     }
   },
@@ -8809,7 +8809,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/2/1906"
     }
   },
@@ -8820,7 +8820,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/3/1906"
     }
   },
@@ -8831,7 +8831,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Opera House",
+    "NAME":"Armory Opera House",
     "time":"11/5/1906"
     }
   },
@@ -8842,7 +8842,7 @@ var brintonJson =
        "coordinates":  [ -94.233019,43.069966 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/6/1906"
     }
   },
@@ -8853,7 +8853,7 @@ var brintonJson =
        "coordinates":  [ -94.233019,43.069966 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/7/1906"
     }
   },
@@ -8864,7 +8864,7 @@ var brintonJson =
        "coordinates":  [ -94.233019,43.069966 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/8/1906"
     }
   },
@@ -8875,7 +8875,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/9/1906"
     }
   },
@@ -8886,7 +8886,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/10/1906"
     }
   },
@@ -8897,7 +8897,7 @@ var brintonJson =
        "coordinates":  [ -96.619798,41.211108 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/12/1906"
     }
   },
@@ -8908,7 +8908,7 @@ var brintonJson =
        "coordinates":  [ -96.619798,41.211108 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/13/1906"
     }
   },
@@ -8919,7 +8919,7 @@ var brintonJson =
        "coordinates":  [ -96.619798,41.211108 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/14/1906"
     }
   },
@@ -8930,7 +8930,7 @@ var brintonJson =
        "coordinates":  [ -95.600559,41.854433 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/15/1906"
     }
   },
@@ -8941,7 +8941,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/16/1906"
     }
   },
@@ -8952,7 +8952,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/17/1906"
     }
   },
@@ -8963,7 +8963,7 @@ var brintonJson =
        "coordinates":  [ -95.701287,41.7372 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/18/1906"
     }
   },
@@ -8974,7 +8974,7 @@ var brintonJson =
        "coordinates":  [ -95.788897,41.643046 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/19/1906"
     }
   },
@@ -8985,7 +8985,7 @@ var brintonJson =
        "coordinates":  [ -95.788897,41.643046 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/20/1906"
     }
   },
@@ -8996,7 +8996,7 @@ var brintonJson =
        "coordinates":  [ -95.788897,41.643046 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/21/1906"
     }
   },
@@ -9007,7 +9007,7 @@ var brintonJson =
        "coordinates":  [ -97.130037,41.252791 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/22/1906"
     }
   },
@@ -9018,7 +9018,7 @@ var brintonJson =
        "coordinates":  [ -97.130037,41.252791 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/23/1906"
     }
   },
@@ -9029,7 +9029,7 @@ var brintonJson =
        "coordinates":  [ -97.130037,41.252791 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/24/1906"
     }
   },
@@ -9040,7 +9040,7 @@ var brintonJson =
        "coordinates":  [ -97.130037,41.252791 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/25/1906"
     }
   },
@@ -9051,7 +9051,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"Paddock Opera House",
+    "NAME":"Paddock Opera House",
     "time":"11/26/1906"
     }
   },
@@ -9062,7 +9062,7 @@ var brintonJson =
        "coordinates":  [ -96.747369,40.266429 ]
     },
     "properties": {
-    "name":"Paddock Opera House",
+    "NAME":"Paddock Opera House",
     "time":"11/27/1906"
     }
   },
@@ -9073,7 +9073,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/28/1906"
     }
   },
@@ -9084,7 +9084,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/29/1906"
     }
   },
@@ -9095,7 +9095,7 @@ var brintonJson =
        "coordinates":  [ -97.180591,40.137225 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/30/1906"
     }
   },
@@ -9106,7 +9106,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/1/1906"
     }
   },
@@ -9117,7 +9117,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/2/1906"
     }
   },
@@ -9128,7 +9128,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/3/1906"
     }
   },
@@ -9139,7 +9139,7 @@ var brintonJson =
        "coordinates":  [ -97.632555,39.824667 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/4/1906"
     }
   },
@@ -9150,7 +9150,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/5/1906"
     }
   },
@@ -9161,7 +9161,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/6/1906"
     }
   },
@@ -9172,7 +9172,7 @@ var brintonJson =
        "coordinates":  [ -96.571669,39.183608 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/7/1906"
     }
   },
@@ -9183,7 +9183,7 @@ var brintonJson =
        "coordinates":  [ -97.706703,39.121945 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/8/1906"
     }
   },
@@ -9194,7 +9194,7 @@ var brintonJson =
        "coordinates":  [ -97.706703,39.121945 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/9/1906"
     }
   },
@@ -9205,7 +9205,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/10/1906"
     }
   },
@@ -9216,7 +9216,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/11/1906"
     }
   },
@@ -9227,7 +9227,7 @@ var brintonJson =
        "coordinates":  [ -97.611424,38.840281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/12/1906"
     }
   },
@@ -9238,7 +9238,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/13/1906"
     }
   },
@@ -9249,7 +9249,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/14/1906"
     }
   },
@@ -9260,7 +9260,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/15/1906"
     }
   },
@@ -9271,7 +9271,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/16/1906"
     }
   },
@@ -9282,7 +9282,7 @@ var brintonJson =
        "coordinates":  [ -97.929774,38.060844 ]
     },
     "properties": {
-    "name":"Home Theatre",
+    "NAME":"Home Theatre",
     "time":"12/17/1906"
     }
   },
@@ -9293,7 +9293,7 @@ var brintonJson =
        "coordinates":  [ -97.399939,37.267508 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/18/1906"
     }
   },
@@ -9304,7 +9304,7 @@ var brintonJson =
        "coordinates":  [ -97.399939,37.267508 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/19/1906"
     }
   },
@@ -9315,7 +9315,7 @@ var brintonJson =
        "coordinates":  [ -96.995592,37.239749 ]
     },
     "properties": {
-    "name":"Grand Opera House",
+    "NAME":"Grand Opera House",
     "time":"12/20/1906"
     }
   },
@@ -9326,7 +9326,7 @@ var brintonJson =
        "coordinates":  [ -96.995592,37.239749 ]
     },
     "properties": {
-    "name":"Grand Opera House",
+    "NAME":"Grand Opera House",
     "time":"12/21/1906"
     }
   },
@@ -9337,7 +9337,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/22/1906"
     }
   },
@@ -9348,7 +9348,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/23/1906"
     }
   },
@@ -9359,7 +9359,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"Band Aud.",
+    "NAME":"Band Aud.",
     "time":"12/24/1906"
     }
   },
@@ -9370,7 +9370,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"Band Aud.",
+    "NAME":"Band Aud.",
     "time":"12/25/1906"
     }
   },
@@ -9381,7 +9381,7 @@ var brintonJson =
        "coordinates":  [ -95.708313,37.224236 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/26/1906"
     }
   },
@@ -9392,7 +9392,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/27/1906"
     }
   },
@@ -9403,7 +9403,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"5th Ave Theatre",
+    "NAME":"5th Ave Theatre",
     "time":"12/28/1906"
     }
   },
@@ -9414,7 +9414,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"5th Ave Theatre",
+    "NAME":"5th Ave Theatre",
     "time":"12/29/1906"
     }
   },
@@ -9425,7 +9425,7 @@ var brintonJson =
        "coordinates":  [ -97.038575,37.062051 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/30/1906"
     }
   },
@@ -9436,7 +9436,7 @@ var brintonJson =
        "coordinates":  [ -97.053678,36.882365 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/31/1906"
     }
   },
@@ -9447,7 +9447,7 @@ var brintonJson =
        "coordinates":  [ -97.053678,36.882365 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/1/1907"
     }
   },
@@ -9458,7 +9458,7 @@ var brintonJson =
        "coordinates":  [ -97.053678,36.882365 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/2/1907"
     }
   },
@@ -9469,7 +9469,7 @@ var brintonJson =
        "coordinates":  [ -97.288098,36.289486 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/3/1907"
     }
   },
@@ -9480,7 +9480,7 @@ var brintonJson =
        "coordinates":  [ -97.288098,36.289486 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/4/1907"
     }
   },
@@ -9491,7 +9491,7 @@ var brintonJson =
        "coordinates":  [ -97.288098,36.289486 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/5/1907"
     }
   },
@@ -9502,7 +9502,7 @@ var brintonJson =
        "coordinates":  [ -97.517054,35.472989 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/6/1907"
     }
   },
@@ -9513,7 +9513,7 @@ var brintonJson =
        "coordinates":  [ -97.361139,35.013683 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/7/1907"
     }
   },
@@ -9524,7 +9524,7 @@ var brintonJson =
        "coordinates":  [ -97.361139,35.013683 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/8/1907"
     }
   },
@@ -9535,7 +9535,7 @@ var brintonJson =
        "coordinates":  [ -97.361139,35.013683 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/9/1907"
     }
   },
@@ -9546,7 +9546,7 @@ var brintonJson =
        "coordinates":  [ -97.439482,35.222572 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/10/1907"
     }
   },
@@ -9557,7 +9557,7 @@ var brintonJson =
        "coordinates":  [ -97.439482,35.222572 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/11/1907"
     }
   },
@@ -9568,7 +9568,7 @@ var brintonJson =
        "coordinates":  [ -97.439482,35.222572 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/12/1907"
     }
   },
@@ -9579,7 +9579,7 @@ var brintonJson =
        "coordinates":  [ -97.439482,35.222572 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/13/1907"
     }
   },
@@ -9590,7 +9590,7 @@ var brintonJson =
        "coordinates":  [ -96.678365,34.774338 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/14/1907"
     }
   },
@@ -9601,7 +9601,7 @@ var brintonJson =
        "coordinates":  [ -96.678365,34.774338 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/15/1907"
     }
   },
@@ -9612,7 +9612,7 @@ var brintonJson =
        "coordinates":  [ -96.678365,34.774338 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/16/1907"
     }
   },
@@ -9623,7 +9623,7 @@ var brintonJson =
        "coordinates":  [ -96.96835,34.507867 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/17/1907"
     }
   },
@@ -9634,7 +9634,7 @@ var brintonJson =
        "coordinates":  [ -96.96835,34.507867 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/18/1907"
     }
   },
@@ -9645,7 +9645,7 @@ var brintonJson =
        "coordinates":  [ -96.96835,34.507867 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/19/1907"
     }
   },
@@ -9656,7 +9656,7 @@ var brintonJson =
        "coordinates":  [ -96.96835,34.507867 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/20/1907"
     }
   },
@@ -9667,7 +9667,7 @@ var brintonJson =
        "coordinates":  [ -96.218609,34.538148 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/21/1907"
     }
   },
@@ -9678,7 +9678,7 @@ var brintonJson =
        "coordinates":  [ -96.218609,34.538148 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/22/1907"
     }
   },
@@ -9689,7 +9689,7 @@ var brintonJson =
        "coordinates":  [ -96.218609,34.538148 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/23/1907"
     }
   },
@@ -9700,7 +9700,7 @@ var brintonJson =
        "coordinates":  [ -97.133345,33.625941 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/24/1907"
     }
   },
@@ -9711,7 +9711,7 @@ var brintonJson =
        "coordinates":  [ -97.133345,33.625941 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/25/1907"
     }
   },
@@ -9722,7 +9722,7 @@ var brintonJson =
        "coordinates":  [ -97.133345,33.625941 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/26/1907"
     }
   },
@@ -9733,7 +9733,7 @@ var brintonJson =
        "coordinates":  [ -97.133345,33.625941 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/27/1907"
     }
   },
@@ -9744,7 +9744,7 @@ var brintonJson =
        "coordinates":  [ -97.141342,33.183879 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/28/1907"
     }
   },
@@ -9755,7 +9755,7 @@ var brintonJson =
        "coordinates":  [ -97.141342,33.183879 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/29/1907"
     }
   },
@@ -9766,7 +9766,7 @@ var brintonJson =
        "coordinates":  [ -97.141342,33.183879 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/30/1907"
     }
   },
@@ -9777,7 +9777,7 @@ var brintonJson =
        "coordinates":  [ -96.615447,33.19765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/31/1907"
     }
   },
@@ -9788,7 +9788,7 @@ var brintonJson =
        "coordinates":  [ -96.615447,33.19765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/1/1907"
     }
   },
@@ -9799,7 +9799,7 @@ var brintonJson =
        "coordinates":  [ -96.615447,33.19765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/2/1907"
     }
   },
@@ -9810,7 +9810,7 @@ var brintonJson =
        "coordinates":  [ -96.30866,32.589366 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/4/1907"
     }
   },
@@ -9821,7 +9821,7 @@ var brintonJson =
        "coordinates":  [ -96.30866,32.589366 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/5/1907"
     }
   },
@@ -9832,7 +9832,7 @@ var brintonJson =
        "coordinates":  [ -96.30866,32.589366 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/6/1907"
     }
   },
@@ -9843,7 +9843,7 @@ var brintonJson =
        "coordinates":  [ -96.848331,32.386531 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/7/1907"
     }
   },
@@ -9854,7 +9854,7 @@ var brintonJson =
        "coordinates":  [ -96.848331,32.386531 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/8/1907"
     }
   },
@@ -9865,7 +9865,7 @@ var brintonJson =
        "coordinates":  [ -96.848331,32.386531 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/9/1907"
     }
   },
@@ -9876,7 +9876,7 @@ var brintonJson =
        "coordinates":  [ -96.848331,32.386531 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/9/1907"
     }
   },
@@ -9887,7 +9887,7 @@ var brintonJson =
        "coordinates":  [ -96.848331,32.386531 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/10/1907"
     }
   },
@@ -9898,7 +9898,7 @@ var brintonJson =
        "coordinates":  [ -97.130006,32.010989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/11/1907"
     }
   },
@@ -9909,7 +9909,7 @@ var brintonJson =
        "coordinates":  [ -97.130006,32.010989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/12/1907"
     }
   },
@@ -9920,7 +9920,7 @@ var brintonJson =
        "coordinates":  [ -97.130006,32.010989 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/13/1907"
     }
   },
@@ -9931,7 +9931,7 @@ var brintonJson =
        "coordinates":  [ -97.130006,32.010989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/13/1907"
     }
   },
@@ -9942,7 +9942,7 @@ var brintonJson =
        "coordinates":  [ -96.482203,31.67989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/14/1907"
     }
   },
@@ -9953,7 +9953,7 @@ var brintonJson =
        "coordinates":  [ -96.482203,31.67989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/15/1907"
     }
   },
@@ -9964,7 +9964,7 @@ var brintonJson =
        "coordinates":  [ -96.482203,31.67989 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/16/1907"
     }
   },
@@ -9975,7 +9975,7 @@ var brintonJson =
        "coordinates":  [ -96.482203,31.67989 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/17/1907"
     }
   },
@@ -9986,7 +9986,7 @@ var brintonJson =
        "coordinates":  [ -96.597194,30.88438 ]
     },
     "properties": {
-    "name":"Masonic Hall",
+    "NAME":"Masonic Hall",
     "time":"2/18/1907"
     }
   },
@@ -9997,7 +9997,7 @@ var brintonJson =
        "coordinates":  [ -96.597194,30.88438 ]
     },
     "properties": {
-    "name":"Masonic Hall",
+    "NAME":"Masonic Hall",
     "time":"2/19/1907"
     }
   },
@@ -10008,7 +10008,7 @@ var brintonJson =
        "coordinates":  [ -96.597194,30.88438 ]
     },
     "properties": {
-    "name":"Masonic Hall",
+    "NAME":"Masonic Hall",
     "time":"2/20/1907"
     }
   },
@@ -10019,7 +10019,7 @@ var brintonJson =
        "coordinates":  [ -96.352777,30.658088 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/21/1907"
     }
   },
@@ -10030,7 +10030,7 @@ var brintonJson =
        "coordinates":  [ -96.352777,30.658088 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/22/1907"
     }
   },
@@ -10041,7 +10041,7 @@ var brintonJson =
        "coordinates":  [ -96.352777,30.658088 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/23/1907"
     }
   },
@@ -10052,7 +10052,7 @@ var brintonJson =
        "coordinates":  [ -96.352777,30.658088 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/23/1907"
     }
   },
@@ -10063,7 +10063,7 @@ var brintonJson =
        "coordinates":  [ -97.743699,30.271129 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/25/1907"
     }
   },
@@ -10074,7 +10074,7 @@ var brintonJson =
        "coordinates":  [ -98.5,29.416667 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/26/1907"
     }
   },
@@ -10085,7 +10085,7 @@ var brintonJson =
        "coordinates":  [ -98.5,29.416667 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/27/1907"
     }
   },
@@ -10096,7 +10096,7 @@ var brintonJson =
        "coordinates":  [ -96.397744,30.166883 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/28/1907"
     }
   },
@@ -10107,7 +10107,7 @@ var brintonJson =
        "coordinates":  [ -96.397744,30.166883 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/1/1907"
     }
   },
@@ -10118,7 +10118,7 @@ var brintonJson =
        "coordinates":  [ -96.397744,30.166883 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/2/1907"
     }
   },
@@ -10129,7 +10129,7 @@ var brintonJson =
        "coordinates":  [ -96.397744,30.166883 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/2/1907"
     }
   },
@@ -10140,7 +10140,7 @@ var brintonJson =
        "coordinates":  [ -96.397744,30.166883 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/3/1907"
     }
   },
@@ -10151,7 +10151,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/4/1907"
     }
   },
@@ -10162,7 +10162,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/5/1907"
     }
   },
@@ -10173,7 +10173,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/6/1907"
     }
   },
@@ -10184,7 +10184,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/7/1907"
     }
   },
@@ -10195,7 +10195,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/8/1907"
     }
   },
@@ -10206,7 +10206,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/9/1907"
     }
   },
@@ -10217,7 +10217,7 @@ var brintonJson =
        "coordinates":  [ -96.102737,29.311637 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/11/1907"
     }
   },
@@ -10228,7 +10228,7 @@ var brintonJson =
        "coordinates":  [ -96.102737,29.311637 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/12/1907"
     }
   },
@@ -10239,7 +10239,7 @@ var brintonJson =
        "coordinates":  [ -96.102737,29.311637 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/13/1907"
     }
   },
@@ -10250,7 +10250,7 @@ var brintonJson =
        "coordinates":  [ -96.333577,29.589684 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/14/1907"
     }
   },
@@ -10261,7 +10261,7 @@ var brintonJson =
        "coordinates":  [ -96.333577,29.589684 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/15/1907"
     }
   },
@@ -10272,7 +10272,7 @@ var brintonJson =
        "coordinates":  [ -96.333577,29.589684 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/16/1907"
     }
   },
@@ -10283,7 +10283,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/19/1907"
     }
   },
@@ -10294,7 +10294,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/20/1907"
     }
   },
@@ -10305,7 +10305,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/21/1907"
     }
   },
@@ -10316,7 +10316,7 @@ var brintonJson =
        "coordinates":  [ -94.794588,29.299328 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/22/1907"
     }
   },
@@ -10327,7 +10327,7 @@ var brintonJson =
        "coordinates":  [ -94.794588,29.299328 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/23/1907"
     }
   },
@@ -10338,7 +10338,7 @@ var brintonJson =
        "coordinates":  [ -94.794588,29.299328 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/24/1907"
     }
   },
@@ -10349,7 +10349,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/25/1907"
     }
   },
@@ -10360,7 +10360,7 @@ var brintonJson =
        "coordinates":  [ -95.244101,29.423847 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/26/1907"
     }
   },
@@ -10371,7 +10371,7 @@ var brintonJson =
        "coordinates":  [ -93.055278,34.497222 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/28/1907"
     }
   },
@@ -10382,7 +10382,7 @@ var brintonJson =
        "coordinates":  [ -90.241655,38.633772 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/30/1907"
     }
   },
@@ -10393,7 +10393,7 @@ var brintonJson =
        "coordinates":  [ -91.409873,39.935602 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/31/1907"
     }
   },
@@ -10404,7 +10404,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/2/1907"
     }
   },
@@ -10415,7 +10415,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/3/1907"
     }
   },
@@ -10426,7 +10426,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/4/1907"
     }
   },
@@ -10437,7 +10437,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/5/1907"
     }
   },
@@ -10448,7 +10448,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/6/1907"
     }
   },
@@ -10459,7 +10459,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/7/1907"
     }
   },
@@ -10470,7 +10470,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/8/1907"
     }
   },
@@ -10481,7 +10481,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/9/1907"
     }
   },
@@ -10492,7 +10492,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/10/1907"
     }
   },
@@ -10503,7 +10503,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/11/1907"
     }
   },
@@ -10514,7 +10514,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/12/1907"
     }
   },
@@ -10525,7 +10525,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/13/1907"
     }
   },
@@ -10536,7 +10536,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/14/1907"
     }
   },
@@ -10547,7 +10547,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/17/1907"
     }
   },
@@ -10558,7 +10558,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/18/1907"
     }
   },
@@ -10569,7 +10569,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/19/1907"
     }
   },
@@ -10580,7 +10580,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/20/1907"
     }
   },
@@ -10591,7 +10591,7 @@ var brintonJson =
        "coordinates":  [ -91.112923,40.807539 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/22/1907"
     }
   },
@@ -10602,7 +10602,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/23/1907"
     }
   },
@@ -10613,7 +10613,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/24/1907"
     }
   },
@@ -10624,7 +10624,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/25/1907"
     }
   },
@@ -10635,7 +10635,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/26/1907"
     }
   },
@@ -10646,7 +10646,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/27/1907"
     }
   },
@@ -10657,7 +10657,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/28/1907"
     }
   },
@@ -10668,7 +10668,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/29/1907"
     }
   },
@@ -10679,7 +10679,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"4/30/1907"
     }
   },
@@ -10690,7 +10690,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/1/1907"
     }
   },
@@ -10701,7 +10701,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/2/1907"
     }
   },
@@ -10712,7 +10712,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/3/1907"
     }
   },
@@ -10723,7 +10723,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/4/1907"
     }
   },
@@ -10734,7 +10734,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/5/1907"
     }
   },
@@ -10745,7 +10745,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/6/1907"
     }
   },
@@ -10756,7 +10756,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/7/1907"
     }
   },
@@ -10767,7 +10767,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/8/1907"
     }
   },
@@ -10778,7 +10778,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/9/1907"
     }
   },
@@ -10789,7 +10789,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/10/1907"
     }
   },
@@ -10800,7 +10800,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/11/1907"
     }
   },
@@ -10811,7 +10811,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/12/1907"
     }
   },
@@ -10822,7 +10822,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/13/1907"
     }
   },
@@ -10833,7 +10833,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/14/1907"
     }
   },
@@ -10844,7 +10844,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/15/1907"
     }
   },
@@ -10855,7 +10855,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/16/1907"
     }
   },
@@ -10866,7 +10866,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/17/1907"
     }
   },
@@ -10877,7 +10877,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/18/1907"
     }
   },
@@ -10888,7 +10888,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/19/1907"
     }
   },
@@ -10899,7 +10899,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/20/1907"
     }
   },
@@ -10910,7 +10910,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/21/1907"
     }
   },
@@ -10921,7 +10921,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/22/1907"
     }
   },
@@ -10932,7 +10932,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/23/1907"
     }
   },
@@ -10943,7 +10943,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/24/1907"
     }
   },
@@ -10954,7 +10954,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"5/25/1907"
     }
   },
@@ -10965,7 +10965,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/26/1907"
     }
   },
@@ -10976,7 +10976,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/27/1907"
     }
   },
@@ -10987,7 +10987,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/28/1907"
     }
   },
@@ -10998,7 +10998,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/29/1907"
     }
   },
@@ -11009,7 +11009,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/30/1907"
     }
   },
@@ -11020,7 +11020,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"5/31/1907"
     }
   },
@@ -11031,7 +11031,7 @@ var brintonJson =
        "coordinates":  [ -91.552384,41.28891 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/1/1907"
     }
   },
@@ -11042,7 +11042,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/2/1907"
     }
   },
@@ -11053,7 +11053,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/3/1907"
     }
   },
@@ -11064,7 +11064,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/4/1907"
     }
   },
@@ -11075,7 +11075,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/5/1907"
     }
   },
@@ -11086,7 +11086,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/6/1907"
     }
   },
@@ -11097,7 +11097,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/7/1907"
     }
   },
@@ -11108,7 +11108,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/8/1907"
     }
   },
@@ -11119,7 +11119,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/9/1907"
     }
   },
@@ -11130,7 +11130,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/10/1907"
     }
   },
@@ -11141,7 +11141,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/11/1907"
     }
   },
@@ -11152,7 +11152,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/12/1907"
     }
   },
@@ -11163,7 +11163,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/13/1907"
     }
   },
@@ -11174,7 +11174,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/14/1907"
     }
   },
@@ -11185,7 +11185,7 @@ var brintonJson =
        "coordinates":  [ -91.706002,41.483072 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"6/15/1907"
     }
   },
@@ -11196,7 +11196,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/16/1907"
     }
   },
@@ -11207,7 +11207,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/17/1907"
     }
   },
@@ -11218,7 +11218,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/18/1907"
     }
   },
@@ -11229,7 +11229,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/19/1907"
     }
   },
@@ -11240,7 +11240,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/20/1907"
     }
   },
@@ -11251,7 +11251,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/21/1907"
     }
   },
@@ -11262,7 +11262,7 @@ var brintonJson =
        "coordinates":  [ -91.536828,41.328077 ]
     },
     "properties": {
-    "name":"Church",
+    "NAME":"Church",
     "time":"6/22/1907"
     }
   },
@@ -11273,7 +11273,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/23/1907"
     }
   },
@@ -11284,7 +11284,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/23/1907"
     }
   },
@@ -11295,7 +11295,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/24/1907"
     }
   },
@@ -11306,7 +11306,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/25/1907"
     }
   },
@@ -11317,7 +11317,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/26/1907"
     }
   },
@@ -11328,7 +11328,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/27/1907"
     }
   },
@@ -11339,7 +11339,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/28/1907"
     }
   },
@@ -11350,7 +11350,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/29/1907"
     }
   },
@@ -11361,7 +11361,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"6/30/1907"
     }
   },
@@ -11372,7 +11372,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/1/1907"
     }
   },
@@ -11383,7 +11383,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/2/1907"
     }
   },
@@ -11394,7 +11394,7 @@ var brintonJson =
        "coordinates":  [ -94.989711,42.422203 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/4/1907"
     }
   },
@@ -11405,7 +11405,7 @@ var brintonJson =
        "coordinates":  [ -94.989711,42.422203 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/5/1907"
     }
   },
@@ -11416,7 +11416,7 @@ var brintonJson =
        "coordinates":  [ -93.603715,41.591064 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/6/1907"
     }
   },
@@ -11427,7 +11427,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/7/1907"
     }
   },
@@ -11438,7 +11438,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/8/1907"
     }
   },
@@ -11449,7 +11449,7 @@ var brintonJson =
        "coordinates":  [ -80.246171,40.17396 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/11/1907"
     }
   },
@@ -11460,7 +11460,7 @@ var brintonJson =
        "coordinates":  [ -79.990086,40.441694 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/12/1907"
     }
   },
@@ -11471,7 +11471,7 @@ var brintonJson =
        "coordinates":  [ -75.16359,39.952399 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/14/1907"
     }
   },
@@ -11482,7 +11482,7 @@ var brintonJson =
        "coordinates":  [ -75.16359,39.952399 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/15/1907"
     }
   },
@@ -11493,7 +11493,7 @@ var brintonJson =
        "coordinates":  [ -73.986614,40.730646 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/16/1907"
     }
   },
@@ -11504,7 +11504,7 @@ var brintonJson =
        "coordinates":  [ -73.986614,40.730646 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/17/1907"
     }
   },
@@ -11515,7 +11515,7 @@ var brintonJson =
        "coordinates":  [ -73.986614,40.730646 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/18/1907"
     }
   },
@@ -11526,7 +11526,7 @@ var brintonJson =
        "coordinates":  [ -76.610759,39.290882 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/19/1907"
     }
   },
@@ -11537,7 +11537,7 @@ var brintonJson =
        "coordinates":  [ -77.036646,38.894955 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/21/1907"
     }
   },
@@ -11548,7 +11548,7 @@ var brintonJson =
        "coordinates":  [ -77.036646,38.894955 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/22/1907"
     }
   },
@@ -11559,7 +11559,7 @@ var brintonJson =
        "coordinates":  [ -77.43428,37.538509 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/24/1907"
     }
   },
@@ -11570,7 +11570,7 @@ var brintonJson =
        "coordinates":  [ -76.248162,36.888993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/25/1907"
     }
   },
@@ -11581,7 +11581,7 @@ var brintonJson =
        "coordinates":  [ -76.248162,36.888993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/26/1907"
     }
   },
@@ -11592,7 +11592,7 @@ var brintonJson =
        "coordinates":  [ -76.248162,36.888993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/27/1907"
     }
   },
@@ -11603,7 +11603,7 @@ var brintonJson =
        "coordinates":  [ -76.248162,36.888993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/29/1907"
     }
   },
@@ -11614,7 +11614,7 @@ var brintonJson =
        "coordinates":  [ -79.990086,40.441694 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"7/31/1907"
     }
   },
@@ -11625,7 +11625,7 @@ var brintonJson =
        "coordinates":  [ -79.990086,40.441694 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/1/1907"
     }
   },
@@ -11636,7 +11636,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/2/1907"
     }
   },
@@ -11647,7 +11647,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/3/1907"
     }
   },
@@ -11658,7 +11658,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/4/1907"
     }
   },
@@ -11669,7 +11669,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/5/1907"
     }
   },
@@ -11680,7 +11680,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/6/1907"
     }
   },
@@ -11691,7 +11691,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/7/1907"
     }
   },
@@ -11702,7 +11702,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/8/1907"
     }
   },
@@ -11713,7 +11713,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/9/1907"
     }
   },
@@ -11724,7 +11724,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/10/1907"
     }
   },
@@ -11735,7 +11735,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/11/1907"
     }
   },
@@ -11746,7 +11746,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/12/1907"
     }
   },
@@ -11757,7 +11757,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/13/1907"
     }
   },
@@ -11768,7 +11768,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/14/1907"
     }
   },
@@ -11779,7 +11779,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/15/1907"
     }
   },
@@ -11790,7 +11790,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/16/1907"
     }
   },
@@ -11801,7 +11801,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/17/1907"
     }
   },
@@ -11812,7 +11812,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/18/1907"
     }
   },
@@ -11823,7 +11823,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/19/1907"
     }
   },
@@ -11834,7 +11834,7 @@ var brintonJson =
        "coordinates":  [ -89.228056,41.2625 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/22/1907"
     }
   },
@@ -11845,7 +11845,7 @@ var brintonJson =
        "coordinates":  [ -89.228056,41.2625 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/23/1907"
     }
   },
@@ -11856,7 +11856,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/24/1907"
     }
   },
@@ -11867,7 +11867,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/25/1907"
     }
   },
@@ -11878,7 +11878,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/26/1907"
     }
   },
@@ -11889,7 +11889,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/27/1907"
     }
   },
@@ -11900,7 +11900,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/28/1907"
     }
   },
@@ -11911,7 +11911,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/29/1907"
     }
   },
@@ -11922,7 +11922,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"8/30/1907"
     }
   },
@@ -11933,7 +11933,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"8/31/1907"
     }
   },
@@ -11944,7 +11944,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/1/1907"
     }
   },
@@ -11955,7 +11955,7 @@ var brintonJson =
        "coordinates":  [ -91.552384,41.28891 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/2/1907"
     }
   },
@@ -11966,7 +11966,7 @@ var brintonJson =
        "coordinates":  [ -91.576667,41.481944 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/3/1907"
     }
   },
@@ -11977,7 +11977,7 @@ var brintonJson =
        "coordinates":  [ -91.576667,41.481944 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/4/1907"
     }
   },
@@ -11988,7 +11988,7 @@ var brintonJson =
        "coordinates":  [ -91.576667,41.481944 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/5/1907"
     }
   },
@@ -11999,7 +11999,7 @@ var brintonJson =
        "coordinates":  [ -92.090456,41.452232 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/6/1907"
     }
   },
@@ -12010,7 +12010,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/7/1907"
     }
   },
@@ -12021,7 +12021,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/8/1907"
     }
   },
@@ -12032,7 +12032,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/9/1907"
     }
   },
@@ -12043,7 +12043,7 @@ var brintonJson =
        "coordinates":  [ -92.251849,41.178903 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/10/1907"
     }
   },
@@ -12054,7 +12054,7 @@ var brintonJson =
        "coordinates":  [ -92.093089,41.198372 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/11/1907"
     }
   },
@@ -12065,7 +12065,7 @@ var brintonJson =
        "coordinates":  [ -91.992953,41.185571 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/12/1907"
     }
   },
@@ -12076,7 +12076,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/13/1907"
     }
   },
@@ -12087,7 +12087,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/14/1907"
     }
   },
@@ -12098,7 +12098,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/15/1907"
     }
   },
@@ -12109,7 +12109,7 @@ var brintonJson =
        "coordinates":  [ -91.817671,41.338904 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/16/1907"
     }
   },
@@ -12120,7 +12120,7 @@ var brintonJson =
        "coordinates":  [ -92.051011,41.362512 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/17/1907"
     }
   },
@@ -12131,7 +12131,7 @@ var brintonJson =
        "coordinates":  [ -92.330184,41.322788 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/18/1907"
     }
   },
@@ -12142,7 +12142,7 @@ var brintonJson =
        "coordinates":  [ -92.090456,41.452232 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/19/1907"
     }
   },
@@ -12153,7 +12153,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/20/1907"
     }
   },
@@ -12164,7 +12164,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/21/1907"
     }
   },
@@ -12175,7 +12175,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/22/1907"
     }
   },
@@ -12186,7 +12186,7 @@ var brintonJson =
        "coordinates":  [ -91.817671,41.338904 ]
     },
     "properties": {
-    "name":"Tent",
+    "NAME":"Tent",
     "time":"9/23/1907"
     }
   },
@@ -12197,7 +12197,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/24/1907"
     }
   },
@@ -12208,7 +12208,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/25/1907"
     }
   },
@@ -12219,7 +12219,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/26/1907"
     }
   },
@@ -12230,7 +12230,7 @@ var brintonJson =
        "coordinates":  [ -89.547324,40.372542 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/28/1907"
     }
   },
@@ -12241,7 +12241,7 @@ var brintonJson =
        "coordinates":  [ -89.547324,40.372542 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/29/1907"
     }
   },
@@ -12252,7 +12252,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"9/30/1907"
     }
   },
@@ -12263,7 +12263,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/1/1907"
     }
   },
@@ -12274,7 +12274,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/2/1907"
     }
   },
@@ -12285,7 +12285,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/3/1907"
     }
   },
@@ -12296,7 +12296,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/5/1907"
     }
   },
@@ -12307,7 +12307,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/6/1907"
     }
   },
@@ -12318,7 +12318,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/7/1907"
     }
   },
@@ -12329,7 +12329,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/8/1907"
     }
   },
@@ -12340,7 +12340,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/9/1907"
     }
   },
@@ -12351,7 +12351,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/10/1907"
     }
   },
@@ -12362,7 +12362,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/11/1907"
     }
   },
@@ -12373,7 +12373,7 @@ var brintonJson =
        "coordinates":  [ -91.837854,41.465065 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/12/1907"
     }
   },
@@ -12384,7 +12384,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/13/1907"
     }
   },
@@ -12395,7 +12395,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/14/1907"
     }
   },
@@ -12406,7 +12406,7 @@ var brintonJson =
        "coordinates":  [ -92.374907,41.580281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/15/1907"
     }
   },
@@ -12417,7 +12417,7 @@ var brintonJson =
        "coordinates":  [ -92.374907,41.580281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/16/1907"
     }
   },
@@ -12428,7 +12428,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"A. Opera House",
+    "NAME":"A. Opera House",
     "time":"10/17/1907"
     }
   },
@@ -12439,7 +12439,7 @@ var brintonJson =
        "coordinates":  [ -92.525278,41.584722 ]
     },
     "properties": {
-    "name":"A. Opera House",
+    "NAME":"A. Opera House",
     "time":"10/18/1907"
     }
   },
@@ -12450,7 +12450,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/19/1907"
     }
   },
@@ -12461,7 +12461,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/20/1907"
     }
   },
@@ -12472,7 +12472,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/21/1907"
     }
   },
@@ -12483,7 +12483,7 @@ var brintonJson =
        "coordinates":  [ -93.452434,42.022765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/22/1907"
     }
   },
@@ -12494,7 +12494,7 @@ var brintonJson =
        "coordinates":  [ -93.452434,42.022765 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/23/1907"
     }
   },
@@ -12505,7 +12505,7 @@ var brintonJson =
        "coordinates":  [ -93.880227,42.059705 ]
     },
     "properties": {
-    "name":"Arie Opera House",
+    "NAME":"Arie Opera House",
     "time":"10/24/1907"
     }
   },
@@ -12516,7 +12516,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Opera House",
+    "NAME":"Armory Opera House",
     "time":"10/25/1907"
     }
   },
@@ -12527,7 +12527,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"Armory Opera House",
+    "NAME":"Armory Opera House",
     "time":"10/26/1907"
     }
   },
@@ -12538,7 +12538,7 @@ var brintonJson =
        "coordinates":  [ -93.825247,42.466307 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"10/27/1907"
     }
   },
@@ -12549,7 +12549,7 @@ var brintonJson =
        "coordinates":  [ -93.26367,42.521002 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/28/1907"
     }
   },
@@ -12560,7 +12560,7 @@ var brintonJson =
        "coordinates":  [ -93.26367,42.521002 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"10/29/1907"
     }
   },
@@ -12571,7 +12571,7 @@ var brintonJson =
        "coordinates":  [ -93.732208,42.731339 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/30/1907"
     }
   },
@@ -12582,7 +12582,7 @@ var brintonJson =
        "coordinates":  [ -93.215192,42.893517 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"10/31/1907"
     }
   },
@@ -12593,7 +12593,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/1/1907"
     }
   },
@@ -12604,7 +12604,7 @@ var brintonJson =
        "coordinates":  [ -93.202273,42.742009 ]
     },
     "properties": {
-    "name":"Olympic Opera House",
+    "NAME":"Olympic Opera House",
     "time":"11/2/1907"
     }
   },
@@ -12615,7 +12615,7 @@ var brintonJson =
        "coordinates":  [ -93.222146,42.833581 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/3/1907"
     }
   },
@@ -12626,7 +12626,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/4/1907"
     }
   },
@@ -12637,7 +12637,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/5/1907"
     }
   },
@@ -12648,7 +12648,7 @@ var brintonJson =
        "coordinates":  [ -93.801559,43.097556 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/6/1907"
     }
   },
@@ -12659,7 +12659,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/7/1907"
     }
   },
@@ -12670,7 +12670,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/8/1907"
     }
   },
@@ -12681,7 +12681,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/9/1907"
     }
   },
@@ -12692,7 +12692,7 @@ var brintonJson =
        "coordinates":  [ -94.832764,43.401626 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/10/1907"
     }
   },
@@ -12703,7 +12703,7 @@ var brintonJson =
        "coordinates":  [ -94.461083,43.652178 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/11/1907"
     }
   },
@@ -12714,7 +12714,7 @@ var brintonJson =
        "coordinates":  [ -94.461083,43.652178 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/12/1907"
     }
   },
@@ -12725,7 +12725,7 @@ var brintonJson =
        "coordinates":  [ -94.461083,43.652178 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/13/1907"
     }
   },
@@ -12736,7 +12736,7 @@ var brintonJson =
        "coordinates":  [ -93.368266,43.648013 ]
     },
     "properties": {
-    "name":"Broadway Theatre",
+    "NAME":"Broadway Theatre",
     "time":"11/14/1907"
     }
   },
@@ -12747,7 +12747,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"Met. Opera House",
+    "NAME":"Met. Opera House",
     "time":"11/15/1907"
     }
   },
@@ -12758,7 +12758,7 @@ var brintonJson =
        "coordinates":  [ -93.268827,44.294964 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/16/1907"
     }
   },
@@ -12769,7 +12769,7 @@ var brintonJson =
        "coordinates":  [ -93.226108,44.083994 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/17/1907"
     }
   },
@@ -12780,7 +12780,7 @@ var brintonJson =
        "coordinates":  [ -94.451855,44.28212 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/18/1907"
     }
   },
@@ -12791,7 +12791,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/19/1907"
     }
   },
@@ -12802,7 +12802,7 @@ var brintonJson =
        "coordinates":  [ -94.626918,43.982458 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/20/1907"
     }
   },
@@ -12813,7 +12813,7 @@ var brintonJson =
        "coordinates":  [ -93.728836,43.746066 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/21/1907"
     }
   },
@@ -12824,7 +12824,7 @@ var brintonJson =
        "coordinates":  [ -93.728836,43.746066 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/22/1907"
     }
   },
@@ -12835,7 +12835,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/23/1907"
     }
   },
@@ -12846,7 +12846,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"11/24/1907"
     }
   },
@@ -12857,7 +12857,7 @@ var brintonJson =
        "coordinates":  [ -93.588572,44.017224 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/25/1907"
     }
   },
@@ -12868,7 +12868,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/26/1907"
     }
   },
@@ -12879,7 +12879,7 @@ var brintonJson =
        "coordinates":  [ -92.463021,44.023327 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/27/1907"
     }
   },
@@ -12890,7 +12890,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/28/1907"
     }
   },
@@ -12901,7 +12901,7 @@ var brintonJson =
        "coordinates":  [ -92.811162,43.284081 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"11/29/1907"
     }
   },
@@ -12912,7 +12912,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"[Aldreth] Opera House",
+    "NAME":"[Aldreth] Opera House",
     "time":"11/30/1907"
     }
   },
@@ -12923,7 +12923,7 @@ var brintonJson =
        "coordinates":  [ -92.672411,43.066361 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/1/1907"
     }
   },
@@ -12934,7 +12934,7 @@ var brintonJson =
        "coordinates":  [ -92.19962,42.965255 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/2/1907"
     }
   },
@@ -12945,7 +12945,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Opera House",
+    "NAME":"Gedney Opera House",
     "time":"12/3/1907"
     }
   },
@@ -12956,7 +12956,7 @@ var brintonJson =
        "coordinates":  [ -91.889339,42.468598 ]
     },
     "properties": {
-    "name":"Gedney Opera House",
+    "NAME":"Gedney Opera House",
     "time":"12/4/1907"
     }
   },
@@ -12967,7 +12967,7 @@ var brintonJson =
        "coordinates":  [ -92.475463,42.725814 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/5/1907"
     }
   },
@@ -12978,7 +12978,7 @@ var brintonJson =
        "coordinates":  [ -90.633502,41.573841 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/6/1907"
     }
   },
@@ -12989,7 +12989,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/7/1907"
     }
   },
@@ -13000,7 +13000,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/8/1907"
     }
   },
@@ -13011,7 +13011,7 @@ var brintonJson =
        "coordinates":  [ -92.317677,43.059141 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/9/1907"
     }
   },
@@ -13022,7 +13022,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/10/1907"
     }
   },
@@ -13033,7 +13033,7 @@ var brintonJson =
        "coordinates":  [ -92.114055,43.381357 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/11/1907"
     }
   },
@@ -13044,7 +13044,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/12/1907"
     }
   },
@@ -13055,7 +13055,7 @@ var brintonJson =
        "coordinates":  [ -91.808217,42.962756 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/13/1907"
     }
   },
@@ -13066,7 +13066,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/14/1907"
     }
   },
@@ -13077,7 +13077,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/15/1907"
     }
   },
@@ -13088,7 +13088,7 @@ var brintonJson =
        "coordinates":  [ -91.186943,42.238275 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/16/1907"
     }
   },
@@ -13099,7 +13099,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/17/1907"
     }
   },
@@ -13110,7 +13110,7 @@ var brintonJson =
        "coordinates":  [ -91.014223,42.298488 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/18/1907"
     }
   },
@@ -13121,7 +13121,7 @@ var brintonJson =
        "coordinates":  [ -91.529911,41.661256 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/20/1907"
     }
   },
@@ -13132,7 +13132,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/21/1907"
     }
   },
@@ -13143,7 +13143,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/22/1907"
     }
   },
@@ -13154,7 +13154,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/23/1907"
     }
   },
@@ -13165,7 +13165,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/24/1907"
     }
   },
@@ -13176,7 +13176,7 @@ var brintonJson =
        "coordinates":  [ -91.953786,41.363902 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/25/1907"
     }
   },
@@ -13187,7 +13187,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/26/1907"
     }
   },
@@ -13198,7 +13198,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/27/1907"
     }
   },
@@ -13209,7 +13209,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/28/1907"
     }
   },
@@ -13220,7 +13220,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/29/1907"
     }
   },
@@ -13231,7 +13231,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/30/1907"
     }
   },
@@ -13242,7 +13242,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/31/1907"
     }
   },
@@ -13253,7 +13253,7 @@ var brintonJson =
        "coordinates":  [ -91.734033,41.316008 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/1/1908"
     }
   },
@@ -13264,7 +13264,7 @@ var brintonJson =
        "coordinates":  [ -91.538751,41.215386 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/2/1908"
     }
   },
@@ -13275,7 +13275,7 @@ var brintonJson =
        "coordinates":  [ -91.441268,41.123083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/3/1908"
     }
   },
@@ -13286,7 +13286,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/4/1908"
     }
   },
@@ -13297,7 +13297,7 @@ var brintonJson =
        "coordinates":  [ -91.661307,41.147783 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/5/1908"
     }
   },
@@ -13308,7 +13308,7 @@ var brintonJson =
        "coordinates":  [ -91.441268,41.123083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/6/1908"
     }
   },
@@ -13319,7 +13319,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/7/1908"
     }
   },
@@ -13330,7 +13330,7 @@ var brintonJson =
        "coordinates":  [ -92.411296,41.020015 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/8/1908"
     }
   },
@@ -13341,7 +13341,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/9/1908"
     }
   },
@@ -13352,7 +13352,7 @@ var brintonJson =
        "coordinates":  [ -92.644961,41.296337 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/10/1908"
     }
   },
@@ -13363,7 +13363,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/11/1908"
     }
   },
@@ -13374,7 +13374,7 @@ var brintonJson =
        "coordinates":  [ -92.722421,41.743055 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/12/1908"
     }
   },
@@ -13385,7 +13385,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/13/1908"
     }
   },
@@ -13396,7 +13396,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/14/1908"
     }
   },
@@ -13407,7 +13407,7 @@ var brintonJson =
        "coordinates":  [ -93.109371,41.32083 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/15/1908"
     }
   },
@@ -13418,7 +13418,7 @@ var brintonJson =
        "coordinates":  [ -91.739112,40.640993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/16/1908"
     }
   },
@@ -13429,7 +13429,7 @@ var brintonJson =
        "coordinates":  [ -91.739112,40.640993 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/17/1908"
     }
   },
@@ -13440,7 +13440,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/18/1908"
     }
   },
@@ -13451,7 +13451,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/19/1908"
     }
   },
@@ -13462,7 +13462,7 @@ var brintonJson =
        "coordinates":  [ -91.962649,41.008736 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/20/1908"
     }
   },
@@ -13473,7 +13473,7 @@ var brintonJson =
        "coordinates":  [ -92.222958,40.91863 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/21/1908"
     }
   },
@@ -13484,7 +13484,7 @@ var brintonJson =
        "coordinates":  [ -92.222958,40.91863 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/22/1908"
     }
   },
@@ -13495,7 +13495,7 @@ var brintonJson =
        "coordinates":  [ -93.746389,40.74 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/23/1908"
     }
   },
@@ -13506,7 +13506,7 @@ var brintonJson =
        "coordinates":  [ -93.746389,40.74 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/24/1908"
     }
   },
@@ -13517,7 +13517,7 @@ var brintonJson =
        "coordinates":  [ -93.746389,40.74 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/25/1908"
     }
   },
@@ -13528,7 +13528,7 @@ var brintonJson =
        "coordinates":  [ -93.746389,40.74 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"1/26/1908"
     }
   },
@@ -13539,7 +13539,7 @@ var brintonJson =
        "coordinates":  [ -95.629994,43.368461 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/27/1908"
     }
   },
@@ -13550,7 +13550,7 @@ var brintonJson =
        "coordinates":  [ -95.629994,43.368461 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/28/1908"
     }
   },
@@ -13561,7 +13561,7 @@ var brintonJson =
        "coordinates":  [ -95.629994,43.368461 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/29/1908"
     }
   },
@@ -13572,7 +13572,7 @@ var brintonJson =
        "coordinates":  [ -94.461354,41.305266 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/30/1908"
     }
   },
@@ -13583,7 +13583,7 @@ var brintonJson =
        "coordinates":  [ -94.461354,41.305266 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"1/31/1908"
     }
   },
@@ -13594,7 +13594,7 @@ var brintonJson =
        "coordinates":  [ -94.461354,41.305266 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/1/1908"
     }
   },
@@ -13605,7 +13605,7 @@ var brintonJson =
        "coordinates":  [ -94.461354,41.305266 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/2/1908"
     }
   },
@@ -13616,7 +13616,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"Temple Grand Theatre",
+    "NAME":"Temple Grand Theatre",
     "time":"2/3/1908"
     }
   },
@@ -13627,7 +13627,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/4/1908"
     }
   },
@@ -13638,7 +13638,7 @@ var brintonJson =
        "coordinates":  [ -94.361347,41.0586 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/5/1908"
     }
   },
@@ -13649,7 +13649,7 @@ var brintonJson =
        "coordinates":  [ -94.740807,40.989986 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/6/1908"
     }
   },
@@ -13660,7 +13660,7 @@ var brintonJson =
        "coordinates":  [ -94.740807,40.989986 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/7/1908"
     }
   },
@@ -13671,7 +13671,7 @@ var brintonJson =
        "coordinates":  [ -94.740807,40.989986 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/8/1908"
     }
   },
@@ -13682,7 +13682,7 @@ var brintonJson =
        "coordinates":  [ -94.740807,40.989986 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/9/1908"
     }
   },
@@ -13693,7 +13693,7 @@ var brintonJson =
        "coordinates":  [ -95.308322,40.833607 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/10/1908"
     }
   },
@@ -13704,7 +13704,7 @@ var brintonJson =
        "coordinates":  [ -95.308322,40.833607 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/11/1908"
     }
   },
@@ -13715,7 +13715,7 @@ var brintonJson =
        "coordinates":  [ -95.308322,40.833607 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/12/1908"
     }
   },
@@ -13726,7 +13726,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"Overland Theatre",
+    "NAME":"Overland Theatre",
     "time":"2/13/1908"
     }
   },
@@ -13737,7 +13737,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/14/1908"
     }
   },
@@ -13748,7 +13748,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/15/1908"
     }
   },
@@ -13759,7 +13759,7 @@ var brintonJson =
        "coordinates":  [ -95.858694,40.676526 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/16/1908"
     }
   },
@@ -13770,7 +13770,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/17/1908"
     }
   },
@@ -13781,7 +13781,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/18/1908"
     }
   },
@@ -13792,7 +13792,7 @@ var brintonJson =
        "coordinates":  [ -95.657771,40.604446 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/19/1908"
     }
   },
@@ -13803,7 +13803,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/20/1908"
     }
   },
@@ -13814,7 +13814,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/21/1908"
     }
   },
@@ -13825,7 +13825,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/22/1908"
     }
   },
@@ -13836,7 +13836,7 @@ var brintonJson =
        "coordinates":  [ -95.37221,40.765553 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/23/1908"
     }
   },
@@ -13847,7 +13847,7 @@ var brintonJson =
        "coordinates":  [ -95.658046,40.397779 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/24/1908"
     }
   },
@@ -13858,7 +13858,7 @@ var brintonJson =
        "coordinates":  [ -95.658046,40.397779 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/25/1908"
     }
   },
@@ -13869,7 +13869,7 @@ var brintonJson =
        "coordinates":  [ -95.658046,40.397779 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"2/26/1908"
     }
   },
@@ -13880,7 +13880,7 @@ var brintonJson =
        "coordinates":  [ -100.445882,39.78373 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/27/1908"
     }
   },
@@ -13891,7 +13891,7 @@ var brintonJson =
        "coordinates":  [ -100.445882,39.78373 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/28/1908"
     }
   },
@@ -13902,7 +13902,7 @@ var brintonJson =
        "coordinates":  [ -100.445882,39.78373 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"2/29/1908"
     }
   },
@@ -13913,7 +13913,7 @@ var brintonJson =
        "coordinates":  [ -100.445882,39.78373 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/1/1908"
     }
   },
@@ -13924,7 +13924,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/2/1908"
     }
   },
@@ -13935,7 +13935,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/3/1908"
     }
   },
@@ -13946,7 +13946,7 @@ var brintonJson =
        "coordinates":  [ -96.648064,39.84173 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/4/1908"
     }
   },
@@ -13957,7 +13957,7 @@ var brintonJson =
        "coordinates":  [ -96.659739,39.681945 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/5/1908"
     }
   },
@@ -13968,7 +13968,7 @@ var brintonJson =
        "coordinates":  [ -96.659739,39.681945 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/6/1908"
     }
   },
@@ -13979,7 +13979,7 @@ var brintonJson =
        "coordinates":  [ -96.659739,39.681945 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"3/7/1908"
     }
   },
@@ -13990,7 +13990,7 @@ var brintonJson =
        "coordinates":  [ -96.659739,39.681945 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"3/8/1908"
     }
   },
@@ -14001,7 +14001,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/7/1908"
     }
   },
@@ -14012,7 +14012,7 @@ var brintonJson =
        "coordinates":  [ -87.624421,41.875555 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/8/1908"
     }
   },
@@ -14023,7 +14023,7 @@ var brintonJson =
        "coordinates":  [ -91.576667,41.481944 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/9/1908"
     }
   },
@@ -14034,7 +14034,7 @@ var brintonJson =
        "coordinates":  [ -91.706002,41.483072 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/10/1908"
     }
   },
@@ -14045,7 +14045,7 @@ var brintonJson =
        "coordinates":  [ -92.090456,41.452232 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/11/1908"
     }
   },
@@ -14056,7 +14056,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/12/1908"
     }
   },
@@ -14067,7 +14067,7 @@ var brintonJson =
        "coordinates":  [ -92.076289,41.513898 ]
     },
     "properties": {
-    "name":"",
+    "NAME":"",
     "time":"12/13/1908"
     }
   },
@@ -14078,7 +14078,7 @@ var brintonJson =
        "coordinates":  [ -92.009506,41.661228 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/14/1908"
     }
   },
@@ -14089,7 +14089,7 @@ var brintonJson =
        "coordinates":  [ -92.374907,41.580281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/15/1908"
     }
   },
@@ -14100,7 +14100,7 @@ var brintonJson =
        "coordinates":  [ -92.374907,41.580281 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/16/1908"
     }
   },
@@ -14111,7 +14111,7 @@ var brintonJson =
        "coordinates":  [ -92.251849,41.178903 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/17/1908"
     }
   },
@@ -14122,7 +14122,7 @@ var brintonJson =
        "coordinates":  [ -92.093089,41.198372 ]
     },
     "properties": {
-    "name":"Opera House",
+    "NAME":"Opera House",
     "time":"12/18/1908"
     }
   }
