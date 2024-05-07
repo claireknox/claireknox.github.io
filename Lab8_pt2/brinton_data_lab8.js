@@ -1,4 +1,5 @@
-{
+var brintonJson =
+[{
    "type": "FeatureCollection",
    "features": [
   {
@@ -14126,4 +14127,4 @@
     }
   }
 ]
-}
+}]
