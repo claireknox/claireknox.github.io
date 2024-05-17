@@ -211,7 +211,7 @@
         sliderControl.addTo(map);
 
 
-        var searchOptions = {
+var searchOptions = {
         position: 'topleft',
         title: 'Search',
         placeholder: 'Example: United States',
@@ -225,26 +225,24 @@
             name.innerHTML = props.name;
             container.appendChild(L.DomUtil.create('br', null, container));
             container.innerHTML += "Total Emigrants: " + props['migrants_' + currentYear] + "<br>";
-            container.innerHTML += "5 Year Temperature Change: " + props['temp_' + currentYear] + " °C<br>";
-            container.innerHTML += "5 Year Disaster Count: " + props['dis_' + currentYear] + "<br>";
         }
     };
 
-        var searchControl = L.control.fuseSearch(searchOptions);
-        map.addControl(searchControl);
-        searchControl.indexFeatures(Centroids, ['name']);
+    var searchControl = L.control.fuseSearch(searchOptions);
+    map.addControl(searchControl);
+    searchControl.indexFeatures(Centroids, ['name']);
 
-        searchControl.on('results', function(data) {
-            highlightLayer.clearLayers();
-            if (data.results.length > 0) {
-                var feature = data.results[0].feature;
-                var marker = markerDict[feature.properties.name];
-                if (marker) {
-                    marker.openPopup();
-                    map.setView(marker.getLatLng(), 6); // Adjust the zoom level as needed
-                }
+    searchControl.on('results', function(data) {
+        highlightLayer.clearLayers();
+        if (data.results.length > 0) {
+            var feature = data.results[0].feature;
+            var marker = markerDict[feature.properties.name];
+            if (marker) {
+                marker.openPopup();
+                map.setView(marker.getLatLng(), 6); // Adjust the zoom level as needed
             }
-        });
+        }
+    });
 
 
         var overlays = {
